@@ -7,7 +7,14 @@ if (strpos($host, 'localhost') !== false || strpos($host, '127.0.0.1') !== false
     $web_path = "http://$host/HTextile/";   
 } else {
     // Production/Vercel: root directory
-    $scheme = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? 'https' : 'http';
+    // Vercel handles HTTPS termination, so check forwarded proto
+    $is_https = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') || 
+                (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https');
+    $scheme = $is_https ? 'https' : 'http';
+    
+    // Fallback force HTTPS if on Vercel edge
+    if (strpos($host, 'vercel.app') !== false) $scheme = 'https';
+    
     $web_path = "$scheme://$host/";
 }
 $user_type_ar=array('admin' => 'Admin',
