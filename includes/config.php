@@ -39,13 +39,22 @@ if (file_exists($_env_file)) {
     unset($_env_file, $_line, $_key, $_val);
 }
 
-// ── Database Credentials (from .env) ─────────────────────────
-define('DB_HOST',     getenv('DB_HOST')     ?: '127.0.0.1');
-define('DB_PORT',     getenv('DB_PORT')     ?: '5432');
-define('DB_DATABASE', getenv('DB_DATABASE') ?: 'postgres');
-define('DB_USER',     getenv('DB_USER')     ?: '');
-define('DB_PASSWORD', getenv('DB_PASSWORD') ?: '');
-define('APP_ENV',     getenv('APP_ENV')     ?: 'production');
+// ── Environment Variable Helper ─────────────────────────────
+function get_env_var(string $key, string $default = ''): string {
+    $val = getenv($key);
+    if ($val !== false && $val !== '') return $val;
+    if (isset($_ENV[$key]) && $_ENV[$key] !== '') return $_ENV[$key];
+    if (isset($_SERVER[$key]) && $_SERVER[$key] !== '') return $_SERVER[$key];
+    return $default;
+}
+
+// ── Database Credentials (from .env or Vercel Environment) ──
+define('DB_HOST',     get_env_var('DB_HOST', '127.0.0.1'));
+define('DB_PORT',     get_env_var('DB_PORT', '5432'));
+define('DB_DATABASE', get_env_var('DB_DATABASE', 'postgres'));
+define('DB_USER',     get_env_var('DB_USER', ''));
+define('DB_PASSWORD', get_env_var('DB_PASSWORD', ''));
+define('APP_ENV',     get_env_var('APP_ENV', 'production'));
 
 // ── PDO Singleton ─────────────────────────────────────────────
 // Returns a single shared PDO instance (connection pooling friendly).
@@ -65,9 +74,15 @@ function get_pdo(): PDO {
         ]);
     } catch (PDOException $e) {
         error_log('[DB CONNECTION ERROR] ' . $e->getMessage());
-        // Never show DB error details to user
-        die("<div style='color:red;padding:20px;'>
-               Database connection failed. Please contact the administrator.
+        $err = htmlspecialchars($e->getMessage());
+        $debugHost = htmlspecialchars(DB_HOST);
+        $debugUser = htmlspecialchars(DB_USER);
+        die("<div style='color:red;padding:20px; font-family: sans-serif;'>
+               <h2>Database connection failed.</h2>
+               <p><strong>Error:</strong> {$err}</p>
+               <p><strong>Configured Host:</strong> {$debugHost}</p>
+               <p><strong>Configured User:</strong> {$debugUser}</p>
+               <p>Please double-check your Vercel Environment Variables in the project settings.</p>
              </div>");
     }
     return $pdo;
