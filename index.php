@@ -48,7 +48,7 @@ $con=get_connection();
 				 <?php if(isset($_REQUEST['msg'])) {
 				  		  $msg=htmlspecialchars($_REQUEST['msg'],ENT_QUOTES);
 						  $msg=trim($msg);	
-						  $msg=mysqli_real_escape_string($con,$msg);
+						  //$msg=mysqli_real_escape_string($con,$msg);
 
 						  echo "<div class='error-message'>$msg</div>";
 						}
@@ -60,7 +60,7 @@ $con=get_connection();
 						  }
 						  $err=htmlspecialchars($err_msg,ENT_QUOTES);
 					  	  $err=trim($err);	
-						  $err=mysqli_real_escape_string($con,$err);
+						  //$err=mysqli_real_escape_string($con,$err);
 						
 						if($err==1) {
 						  $msg="Session Expired";
