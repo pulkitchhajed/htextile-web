@@ -11,7 +11,6 @@ function _generateRandom($length=6)
 {
 	$_rand_src = array(
 		array(50,57) //digits
-//		, array(97,122) //lowercase chars
 		, array(65,90) //uppercase chars
 	);
 	srand ((double) microtime() * 1000000);
@@ -23,7 +22,11 @@ function _generateRandom($length=6)
 	return $random_string;
 }
 
-$im = @imagecreatefromjpeg("../images/captcha.jpg"); 
+// Generate new image instead of loading from disk to avoid corrupt buffers
+$im = imagecreatetruecolor(60, 20);
+$bg = imagecolorallocate($im, 255, 255, 255); // white background
+imagefill($im, 0, 0, $bg);
+
 $rand = _generateRandom(3);
 $_SESSION['captcha'] = $rand;
 ImageString($im, 5, 2, 2, $rand[0]." ".$rand[1]." ".$rand[2]." ", ImageColorAllocate ($im, 0, 0, 0));
