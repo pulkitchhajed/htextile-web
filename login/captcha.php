@@ -1,4 +1,5 @@
 <?php
+require_once(__DIR__ . '/../includes/session_db_handler.php');
 session_start();
 header("Expires: Mon, 26 Jul 1997 05:00:00 GMT"); 
 header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT"); 
