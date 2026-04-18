@@ -1,0 +1,3486 @@
+ 
+19-05-2024 18:15:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:15:16 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='2' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:15:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:15:16 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='2' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:15:16 
+Bill Not Fully Paid
+ 
+19-05-2024 18:15:16 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='2' AND delete_tag='FALSE' 
+ 
+19-05-2024 18:15:16 
+inside While
+ 
+19-05-2024 18:15:16 
+
+ 
+19-05-2024 18:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:17:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:17:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:17:58 
+Bill Not Fully Paid
+ 
+19-05-2024 18:17:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+19-05-2024 18:17:58 
+inside While
+ 
+19-05-2024 18:17:58 
+
+ 
+19-05-2024 18:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:17:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:17:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:17:58 
+Bill Not Fully Paid
+ 
+19-05-2024 18:17:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+19-05-2024 18:17:58 
+inside While
+ 
+19-05-2024 18:17:58 
+
+ 
+19-05-2024 18:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:17:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:17:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:17:58 
+Bill Not Fully Paid
+ 
+19-05-2024 18:17:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+19-05-2024 18:17:58 
+inside While
+ 
+19-05-2024 18:17:58 
+
+ 
+19-05-2024 18:18:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:18:02 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:18:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:18:02 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:18:02 
+Bill Not Fully Paid
+ 
+19-05-2024 18:18:02 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+19-05-2024 18:18:02 
+inside While
+ 
+19-05-2024 18:18:02 
+
+ 
+19-05-2024 18:18:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:18:02 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:18:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:18:02 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:18:02 
+Bill Not Fully Paid
+ 
+19-05-2024 18:18:02 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+19-05-2024 18:18:02 
+inside While
+ 
+19-05-2024 18:18:02 
+
+ 
+19-05-2024 18:18:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:18:02 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:18:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+19-05-2024 18:18:02 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+19-05-2024 18:18:02 
+Bill Not Fully Paid
+ 
+19-05-2024 18:18:02 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+19-05-2024 18:18:02 
+inside While
+ 
+19-05-2024 18:18:02 
+
+ 
+20-05-2024 10:57:24 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:57:24 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='2' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:57:24 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:57:24 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='2' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:57:24 
+Bill Not Fully Paid
+ 
+20-05-2024 10:57:24 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='2' AND delete_tag='FALSE' 
+ 
+20-05-2024 10:57:24 
+inside While
+ 
+20-05-2024 10:57:24 
+
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+Bill Not Fully Paid
+ 
+20-05-2024 10:58:36 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+20-05-2024 10:58:36 
+inside While
+ 
+20-05-2024 10:58:36 
+
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='8' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='8' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+Bill Not Fully Paid
+ 
+20-05-2024 10:58:36 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='8' AND delete_tag='FALSE' 
+ 
+20-05-2024 10:58:36 
+inside While
+ 
+20-05-2024 10:58:36 
+10000.0010000.000.000.00
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+Bill Not Fully Paid
+ 
+20-05-2024 10:58:36 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+20-05-2024 10:58:36 
+inside While
+ 
+20-05-2024 10:58:36 
+
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+Bill Not Fully Paid
+ 
+20-05-2024 10:58:36 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+20-05-2024 10:58:36 
+inside While
+ 
+20-05-2024 10:58:36 
+
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 10:58:36 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 10:58:36 
+Bill Not Fully Paid
+ 
+20-05-2024 10:58:36 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+20-05-2024 10:58:36 
+inside While
+ 
+20-05-2024 10:58:36 
+15000.0015000.000.000.00
+ 
+20-05-2024 11:02:13 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 11:02:13 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='12' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 11:02:13 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 11:02:13 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='12' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 11:02:13 
+Bill Not Fully Paid
+ 
+20-05-2024 11:02:13 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='12' AND delete_tag='FALSE' 
+ 
+20-05-2024 11:02:13 
+inside While
+ 
+20-05-2024 11:02:13 
+
+ 
+20-05-2024 11:02:13 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 11:02:13 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='5' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 11:02:13 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+20-05-2024 11:02:13 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='5' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+20-05-2024 11:02:13 
+Bill Not Fully Paid
+ 
+20-05-2024 11:02:13 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='5' AND delete_tag='FALSE' 
+ 
+20-05-2024 11:02:13 
+inside While
+ 
+20-05-2024 11:02:13 
+
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+Bill Not Fully Paid
+ 
+26-05-2024 12:39:00 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 12:39:00 
+inside While
+ 
+26-05-2024 12:39:00 
+0.000.00500.00500.00
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='8' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='8' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+Bill Not Fully Paid
+ 
+26-05-2024 12:39:00 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='8' AND delete_tag='FALSE' 
+ 
+26-05-2024 12:39:00 
+inside While
+ 
+26-05-2024 12:39:00 
+10000.0010000.000.000.00
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+Bill Not Fully Paid
+ 
+26-05-2024 12:39:00 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 12:39:00 
+inside While
+ 
+26-05-2024 12:39:00 
+
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+Bill Not Fully Paid
+ 
+26-05-2024 12:39:00 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 12:39:00 
+inside While
+ 
+26-05-2024 12:39:00 
+
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 12:39:00 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 12:39:00 
+Bill Not Fully Paid
+ 
+26-05-2024 12:39:00 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 12:39:00 
+inside While
+ 
+26-05-2024 12:39:00 
+15000.0015000.000.000.00
+ 
+26-05-2024 17:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 17:17:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 17:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 17:17:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 17:17:58 
+Bill Not Fully Paid
+ 
+26-05-2024 17:17:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 17:17:58 
+inside While
+ 
+26-05-2024 17:17:58 
+0.000.00500.00500.00
+ 
+26-05-2024 17:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 17:17:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 17:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 17:17:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 17:17:58 
+Bill Not Fully Paid
+ 
+26-05-2024 17:17:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 17:17:58 
+inside While
+ 
+26-05-2024 17:17:58 
+
+ 
+26-05-2024 17:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 17:17:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 17:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 17:17:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 17:17:58 
+Bill Not Fully Paid
+ 
+26-05-2024 17:17:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 17:17:58 
+inside While
+ 
+26-05-2024 17:17:58 
+
+ 
+26-05-2024 17:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 17:17:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 17:17:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 17:17:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 17:17:58 
+Bill Not Fully Paid
+ 
+26-05-2024 17:17:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 17:17:58 
+inside While
+ 
+26-05-2024 17:17:58 
+15000.0015000.000.000.00
+ 
+26-05-2024 18:43:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:43:14 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:43:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:43:14 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:43:14 
+Bill Not Fully Paid
+ 
+26-05-2024 18:43:14 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:43:14 
+inside While
+ 
+26-05-2024 18:43:14 
+0.000.00500.00500.00
+ 
+26-05-2024 18:43:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:43:14 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:43:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:43:14 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:43:14 
+Bill Not Fully Paid
+ 
+26-05-2024 18:43:14 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:43:14 
+inside While
+ 
+26-05-2024 18:43:14 
+
+ 
+26-05-2024 18:43:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:43:14 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:43:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:43:14 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:43:14 
+Bill Not Fully Paid
+ 
+26-05-2024 18:43:14 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:43:14 
+inside While
+ 
+26-05-2024 18:43:14 
+
+ 
+26-05-2024 18:43:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:43:14 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:43:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:43:14 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:43:14 
+Bill Not Fully Paid
+ 
+26-05-2024 18:43:14 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:43:14 
+inside While
+ 
+26-05-2024 18:43:14 
+15000.0015000.000.000.00
+ 
+26-05-2024 18:44:48 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:44:48 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:44:48 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:44:48 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:44:48 
+Bill Not Fully Paid
+ 
+26-05-2024 18:44:48 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:44:48 
+inside While
+ 
+26-05-2024 18:44:48 
+0.000.00500.00500.00
+ 
+26-05-2024 18:44:48 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:44:48 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:44:48 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:44:48 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:44:48 
+Bill Not Fully Paid
+ 
+26-05-2024 18:44:48 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:44:48 
+inside While
+ 
+26-05-2024 18:44:48 
+
+ 
+26-05-2024 18:44:48 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:44:48 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:44:48 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:44:48 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:44:48 
+Bill Not Fully Paid
+ 
+26-05-2024 18:44:48 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:44:48 
+inside While
+ 
+26-05-2024 18:44:48 
+
+ 
+26-05-2024 18:44:48 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:44:48 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:44:48 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:44:48 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:44:48 
+Bill Not Fully Paid
+ 
+26-05-2024 18:44:48 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:44:48 
+inside While
+ 
+26-05-2024 18:44:48 
+15000.0015000.000.000.00
+ 
+26-05-2024 18:45:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:20 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:20 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:20 
+Bill Not Fully Paid
+ 
+26-05-2024 18:45:20 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:45:20 
+inside While
+ 
+26-05-2024 18:45:20 
+0.000.00500.00500.00
+ 
+26-05-2024 18:45:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:20 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:20 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:20 
+Bill Not Fully Paid
+ 
+26-05-2024 18:45:20 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:45:20 
+inside While
+ 
+26-05-2024 18:45:20 
+
+ 
+26-05-2024 18:45:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:20 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:20 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:20 
+Bill Not Fully Paid
+ 
+26-05-2024 18:45:20 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:45:20 
+inside While
+ 
+26-05-2024 18:45:20 
+
+ 
+26-05-2024 18:45:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:20 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:20 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:20 
+Bill Not Fully Paid
+ 
+26-05-2024 18:45:20 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:45:20 
+inside While
+ 
+26-05-2024 18:45:20 
+15000.0015000.000.000.00
+ 
+26-05-2024 18:45:30 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:30 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:30 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:30 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:30 
+Bill Not Fully Paid
+ 
+26-05-2024 18:45:30 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:45:30 
+inside While
+ 
+26-05-2024 18:45:30 
+0.000.00500.00500.00
+ 
+26-05-2024 18:45:30 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:30 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:30 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:30 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:30 
+Bill Not Fully Paid
+ 
+26-05-2024 18:45:30 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:45:30 
+inside While
+ 
+26-05-2024 18:45:30 
+
+ 
+26-05-2024 18:45:30 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:30 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:30 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:30 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:30 
+Bill Not Fully Paid
+ 
+26-05-2024 18:45:30 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:45:30 
+inside While
+ 
+26-05-2024 18:45:30 
+
+ 
+26-05-2024 18:45:30 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:30 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:30 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:45:30 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:45:30 
+Bill Not Fully Paid
+ 
+26-05-2024 18:45:30 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:45:30 
+inside While
+ 
+26-05-2024 18:45:30 
+15000.0015000.000.000.00
+ 
+26-05-2024 18:47:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:47:02 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:47:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:47:02 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:47:02 
+Bill Not Fully Paid
+ 
+26-05-2024 18:47:02 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:47:02 
+inside While
+ 
+26-05-2024 18:47:02 
+0.000.00500.00500.00
+ 
+26-05-2024 18:47:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:47:02 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:47:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:47:02 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:47:02 
+Bill Not Fully Paid
+ 
+26-05-2024 18:47:02 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:47:02 
+inside While
+ 
+26-05-2024 18:47:02 
+
+ 
+26-05-2024 18:47:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:47:02 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:47:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:47:02 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:47:02 
+Bill Not Fully Paid
+ 
+26-05-2024 18:47:02 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:47:02 
+inside While
+ 
+26-05-2024 18:47:02 
+
+ 
+26-05-2024 18:47:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:47:02 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:47:02 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:47:02 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:47:02 
+Bill Not Fully Paid
+ 
+26-05-2024 18:47:02 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:47:02 
+inside While
+ 
+26-05-2024 18:47:02 
+15000.0015000.000.000.00
+ 
+26-05-2024 18:55:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:55:14 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:55:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:55:14 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:55:14 
+Bill Not Fully Paid
+ 
+26-05-2024 18:55:14 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:55:14 
+inside While
+ 
+26-05-2024 18:55:14 
+0.000.00500.00500.00
+ 
+26-05-2024 18:55:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:55:14 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:55:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:55:14 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:55:14 
+Bill Not Fully Paid
+ 
+26-05-2024 18:55:14 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:55:14 
+inside While
+ 
+26-05-2024 18:55:14 
+
+ 
+26-05-2024 18:55:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:55:14 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:55:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:55:14 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:55:14 
+Bill Not Fully Paid
+ 
+26-05-2024 18:55:14 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:55:14 
+inside While
+ 
+26-05-2024 18:55:14 
+
+ 
+26-05-2024 18:55:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:55:14 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:55:14 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 18:55:14 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 18:55:14 
+Bill Not Fully Paid
+ 
+26-05-2024 18:55:14 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 18:55:14 
+inside While
+ 
+26-05-2024 18:55:14 
+15000.0015000.000.000.00
+ 
+26-05-2024 19:00:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:00:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:00:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:00:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:00:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:00:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:00:58 
+inside While
+ 
+26-05-2024 19:00:58 
+0.000.00500.00500.00
+ 
+26-05-2024 19:00:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:00:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:00:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:00:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:00:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:00:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:00:58 
+inside While
+ 
+26-05-2024 19:00:58 
+
+ 
+26-05-2024 19:00:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:00:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:00:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:00:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:00:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:00:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:00:58 
+inside While
+ 
+26-05-2024 19:00:58 
+
+ 
+26-05-2024 19:00:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:00:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:00:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:00:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:00:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:00:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:00:58 
+inside While
+ 
+26-05-2024 19:00:58 
+15000.0015000.000.000.00
+ 
+26-05-2024 19:04:15 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:04:15 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:04:15 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:04:15 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:04:15 
+Bill Not Fully Paid
+ 
+26-05-2024 19:04:15 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:04:15 
+inside While
+ 
+26-05-2024 19:04:15 
+0.000.00500.00500.00
+ 
+26-05-2024 19:04:15 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:04:15 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:04:15 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:04:15 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:04:15 
+Bill Not Fully Paid
+ 
+26-05-2024 19:04:15 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:04:15 
+inside While
+ 
+26-05-2024 19:04:15 
+
+ 
+26-05-2024 19:04:15 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:04:16 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:04:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:04:16 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:04:16 
+Bill Not Fully Paid
+ 
+26-05-2024 19:04:16 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:04:16 
+inside While
+ 
+26-05-2024 19:04:16 
+
+ 
+26-05-2024 19:04:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:04:16 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:04:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:04:16 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:04:16 
+Bill Not Fully Paid
+ 
+26-05-2024 19:04:16 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:04:16 
+inside While
+ 
+26-05-2024 19:04:16 
+15000.0015000.000.000.00
+ 
+26-05-2024 19:05:43 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:05:43 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:05:43 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:05:43 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:05:43 
+Bill Not Fully Paid
+ 
+26-05-2024 19:05:43 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:05:43 
+inside While
+ 
+26-05-2024 19:05:43 
+0.000.00500.00500.00
+ 
+26-05-2024 19:05:43 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:05:43 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:05:43 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:05:43 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:05:43 
+Bill Not Fully Paid
+ 
+26-05-2024 19:05:43 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:05:43 
+inside While
+ 
+26-05-2024 19:05:43 
+
+ 
+26-05-2024 19:05:43 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:05:43 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:05:43 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:05:43 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:05:43 
+Bill Not Fully Paid
+ 
+26-05-2024 19:05:43 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:05:43 
+inside While
+ 
+26-05-2024 19:05:43 
+
+ 
+26-05-2024 19:05:43 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:05:43 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:05:43 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:05:43 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:05:43 
+Bill Not Fully Paid
+ 
+26-05-2024 19:05:43 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:05:43 
+inside While
+ 
+26-05-2024 19:05:43 
+15000.0015000.000.000.00
+ 
+26-05-2024 19:08:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:08:16 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:08:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:08:16 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:08:16 
+Bill Not Fully Paid
+ 
+26-05-2024 19:08:16 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:08:16 
+inside While
+ 
+26-05-2024 19:08:16 
+0.000.00500.00500.00
+ 
+26-05-2024 19:08:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:08:16 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:08:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:08:16 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:08:16 
+Bill Not Fully Paid
+ 
+26-05-2024 19:08:16 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:08:16 
+inside While
+ 
+26-05-2024 19:08:16 
+
+ 
+26-05-2024 19:08:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:08:16 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:08:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:08:16 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:08:16 
+Bill Not Fully Paid
+ 
+26-05-2024 19:08:16 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:08:16 
+inside While
+ 
+26-05-2024 19:08:16 
+
+ 
+26-05-2024 19:08:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:08:16 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:08:16 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:08:16 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:08:16 
+Bill Not Fully Paid
+ 
+26-05-2024 19:08:16 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:08:16 
+inside While
+ 
+26-05-2024 19:08:16 
+15000.0015000.000.000.00
+ 
+26-05-2024 19:09:07 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:09:07 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='8' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:09:07 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:09:07 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='8' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:09:07 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:09:07 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:09:07 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:09:07 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:09:07 
+Bill Not Fully Paid
+ 
+26-05-2024 19:09:07 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:09:07 
+inside While
+ 
+26-05-2024 19:09:07 
+
+ 
+26-05-2024 19:09:07 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:09:07 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:09:07 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:09:07 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:09:07 
+Bill Not Fully Paid
+ 
+26-05-2024 19:09:07 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:09:07 
+inside While
+ 
+26-05-2024 19:09:07 
+
+ 
+26-05-2024 19:09:07 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:09:07 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:09:07 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:09:07 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:09:07 
+Bill Not Fully Paid
+ 
+26-05-2024 19:09:07 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:09:07 
+inside While
+ 
+26-05-2024 19:09:07 
+15000.0015000.000.000.00
+ 
+26-05-2024 19:20:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:20:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:20:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:20:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:20:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:20:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:20:58 
+inside While
+ 
+26-05-2024 19:20:58 
+
+ 
+26-05-2024 19:20:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:20:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:20:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:20:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:20:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:20:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:20:58 
+inside While
+ 
+26-05-2024 19:20:58 
+
+ 
+26-05-2024 19:20:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:20:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:20:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:20:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:20:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:20:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:20:58 
+inside While
+ 
+26-05-2024 19:20:58 
+
+ 
+26-05-2024 19:21:38 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:21:38 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:21:38 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:21:38 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:21:38 
+Bill Not Fully Paid
+ 
+26-05-2024 19:21:38 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:21:38 
+inside While
+ 
+26-05-2024 19:21:38 
+
+ 
+26-05-2024 19:21:38 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:21:38 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:21:38 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:21:38 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:21:38 
+Bill Not Fully Paid
+ 
+26-05-2024 19:21:38 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:21:38 
+inside While
+ 
+26-05-2024 19:21:38 
+
+ 
+26-05-2024 19:23:44 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:23:44 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:23:44 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:23:44 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:23:44 
+Bill Not Fully Paid
+ 
+26-05-2024 19:23:44 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:23:44 
+inside While
+ 
+26-05-2024 19:23:44 
+
+ 
+26-05-2024 19:23:44 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:23:44 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:23:44 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:23:44 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:23:44 
+Bill Not Fully Paid
+ 
+26-05-2024 19:23:44 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:23:44 
+inside While
+ 
+26-05-2024 19:23:44 
+
+ 
+26-05-2024 19:27:26 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:27:26 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:27:26 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:27:26 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:27:26 
+Bill Not Fully Paid
+ 
+26-05-2024 19:27:26 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:27:26 
+inside While
+ 
+26-05-2024 19:27:26 
+
+ 
+26-05-2024 19:27:26 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:27:26 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:27:26 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:27:26 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:27:26 
+Bill Not Fully Paid
+ 
+26-05-2024 19:27:26 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:27:26 
+inside While
+ 
+26-05-2024 19:27:26 
+
+ 
+26-05-2024 19:29:10 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:29:10 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:29:10 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:29:10 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:29:10 
+Bill Not Fully Paid
+ 
+26-05-2024 19:29:10 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:29:10 
+inside While
+ 
+26-05-2024 19:29:10 
+
+ 
+26-05-2024 19:29:10 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:29:10 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:29:10 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:29:10 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:29:10 
+Bill Not Fully Paid
+ 
+26-05-2024 19:29:10 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:29:10 
+inside While
+ 
+26-05-2024 19:29:10 
+
+ 
+26-05-2024 19:30:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:30:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:30:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:30:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:30:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:30:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:30:58 
+inside While
+ 
+26-05-2024 19:30:58 
+10000.0010000.000.000.00
+ 
+26-05-2024 19:30:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:30:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:30:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:30:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:30:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:30:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:30:58 
+inside While
+ 
+26-05-2024 19:30:58 
+
+ 
+26-05-2024 19:30:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:30:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:30:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:30:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:30:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:30:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:30:58 
+inside While
+ 
+26-05-2024 19:30:58 
+
+ 
+26-05-2024 19:30:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:30:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:30:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:30:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:30:58 
+Bill Not Fully Paid
+ 
+26-05-2024 19:30:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:30:58 
+inside While
+ 
+26-05-2024 19:30:58 
+15000.0015000.000.000.00
+ 
+26-05-2024 19:33:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:33:20 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:33:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:33:20 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:33:20 
+Bill Not Fully Paid
+ 
+26-05-2024 19:33:20 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:33:20 
+inside While
+ 
+26-05-2024 19:33:20 
+
+ 
+26-05-2024 19:33:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:33:20 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:33:20 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:33:20 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:33:20 
+Bill Not Fully Paid
+ 
+26-05-2024 19:33:20 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:33:20 
+inside While
+ 
+26-05-2024 19:33:20 
+
+ 
+26-05-2024 19:34:03 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:34:03 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:34:03 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:34:03 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:34:03 
+Bill Not Fully Paid
+ 
+26-05-2024 19:34:03 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:34:03 
+inside While
+ 
+26-05-2024 19:34:03 
+
+ 
+26-05-2024 19:34:03 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:34:03 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:34:03 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 19:34:03 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 19:34:03 
+Bill Not Fully Paid
+ 
+26-05-2024 19:34:03 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 19:34:03 
+inside While
+ 
+26-05-2024 19:34:03 
+
+ 
+26-05-2024 20:31:40 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:31:40 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:31:40 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:31:40 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:31:40 
+Bill Not Fully Paid
+ 
+26-05-2024 20:31:40 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+26-05-2024 20:31:40 
+inside While
+ 
+26-05-2024 20:31:40 
+10000.0010000.000.000.00
+ 
+26-05-2024 20:31:40 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:31:40 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:31:40 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:31:40 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:31:40 
+Bill Not Fully Paid
+ 
+26-05-2024 20:31:40 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 20:31:40 
+inside While
+ 
+26-05-2024 20:31:40 
+
+ 
+26-05-2024 20:31:40 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:31:40 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:31:40 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:31:40 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:31:40 
+Bill Not Fully Paid
+ 
+26-05-2024 20:31:40 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 20:31:40 
+inside While
+ 
+26-05-2024 20:31:40 
+
+ 
+26-05-2024 20:31:40 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:31:40 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:31:40 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:31:40 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='11' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:31:40 
+Bill Not Fully Paid
+ 
+26-05-2024 20:31:40 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='11' AND delete_tag='FALSE' 
+ 
+26-05-2024 20:31:40 
+inside While
+ 
+26-05-2024 20:31:40 
+15000.0015000.000.000.00
+ 
+26-05-2024 20:32:27 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:32:27 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:32:27 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:32:27 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='9' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:32:27 
+Bill Not Fully Paid
+ 
+26-05-2024 20:32:27 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='9' AND delete_tag='FALSE' 
+ 
+26-05-2024 20:32:27 
+inside While
+ 
+26-05-2024 20:32:27 
+
+ 
+26-05-2024 20:32:27 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:32:27 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:32:27 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 20:32:27 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='10' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 20:32:27 
+Bill Not Fully Paid
+ 
+26-05-2024 20:32:27 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='10' AND delete_tag='FALSE' 
+ 
+26-05-2024 20:32:27 
+inside While
+ 
+26-05-2024 20:32:27 
+
+ 
+26-05-2024 21:41:23 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 21:41:23 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='3' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 21:41:23 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 21:41:23 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='3' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 21:41:23 
+Bill Not Fully Paid
+ 
+26-05-2024 21:41:23 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='3' AND delete_tag='FALSE' 
+ 
+26-05-2024 21:41:23 
+inside While
+ 
+26-05-2024 21:41:23 
+
+ 
+26-05-2024 21:54:33 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 21:54:33 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='4' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 21:54:33 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+26-05-2024 21:54:33 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='4' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+26-05-2024 21:54:33 
+Bill Not Fully Paid
+ 
+26-05-2024 21:54:33 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='4' AND delete_tag='FALSE' 
+ 
+26-05-2024 21:54:33 
+inside While
+ 
+26-05-2024 21:54:33 
+
+ 
+03-06-2024 14:19:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 14:19:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 14:19:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 14:19:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 14:19:58 
+Bill Not Fully Paid
+ 
+03-06-2024 14:19:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+03-06-2024 14:19:58 
+inside While
+ 
+03-06-2024 14:19:58 
+
+ 
+03-06-2024 14:20:49 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 14:20:49 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='3' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 14:20:49 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 14:20:49 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='3' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 14:20:49 
+Bill Not Fully Paid
+ 
+03-06-2024 14:20:49 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='3' AND delete_tag='FALSE' 
+ 
+03-06-2024 14:20:49 
+inside While
+ 
+03-06-2024 14:20:49 
+
+ 
+03-06-2024 14:20:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 14:20:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='2' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 14:20:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 14:20:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='2' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 14:20:58 
+Bill Not Fully Paid
+ 
+03-06-2024 14:20:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='2' AND delete_tag='FALSE' 
+ 
+03-06-2024 14:20:58 
+inside While
+ 
+03-06-2024 14:20:58 
+
+ 
+03-06-2024 15:37:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 15:37:58 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 15:37:58 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 15:37:58 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 15:37:58 
+Bill Not Fully Paid
+ 
+03-06-2024 15:37:58 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+03-06-2024 15:37:58 
+inside While
+ 
+03-06-2024 15:37:58 
+
+ 
+03-06-2024 15:38:12 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 15:38:12 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 15:38:12 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+03-06-2024 15:38:12 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='1' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+03-06-2024 15:38:12 
+Bill Not Fully Paid
+ 
+03-06-2024 15:38:12 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='1' AND delete_tag='FALSE' 
+ 
+03-06-2024 15:38:12 
+inside While
+ 
+03-06-2024 15:38:12 
+
+ 
+05-06-2024 18:11:46 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+05-06-2024 18:11:46 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='17' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+05-06-2024 18:11:46 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+05-06-2024 18:11:46 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='17' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+05-06-2024 18:11:46 
+Bill Not Fully Paid
+ 
+05-06-2024 18:11:46 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='17' AND delete_tag='FALSE' 
+ 
+05-06-2024 18:11:46 
+inside While
+ 
+05-06-2024 18:11:46 
+
+ 
+05-06-2024 18:16:24 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+05-06-2024 18:16:24 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='17' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+05-06-2024 18:16:24 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+05-06-2024 18:16:24 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='17' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+05-06-2024 18:16:24 
+Bill Not Fully Paid
+ 
+05-06-2024 18:16:24 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='17' AND delete_tag='FALSE' 
+ 
+05-06-2024 18:16:24 
+inside While
+ 
+05-06-2024 18:16:24 
+
+ 
+05-06-2024 18:16:37 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+05-06-2024 18:16:37 
+SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='17' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+05-06-2024 18:16:37 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+ 
+05-06-2024 18:16:37 
+ -Checking Full Payment Info - SELECT * FROM 
+						txt_commission_receipt_bill_entry 
+						WHERE commission_bill_entry_id='17' 
+						AND delete_tag='FALSE' AND receipt_part_full='FULL' 
+ 
+05-06-2024 18:16:37 
+Bill Not Fully Paid
+ 
+05-06-2024 18:16:37 
+- Sum Query - SELECT
+									 SUM(received_amount)AS sum_rec_amt,
+									 SUM(deduction_amount)AS sum_ded_amt
+									 FROM txt_commission_receipt_bill_entry 
+									 WHERE commission_bill_entry_id='17' AND delete_tag='FALSE' 
+ 
+05-06-2024 18:16:37 
+inside While
+ 
+05-06-2024 18:16:37 
+

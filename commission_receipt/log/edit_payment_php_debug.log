@@ -1,0 +1,695 @@
+ 
+14-05-2024 11:41:49 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=3 AND delete_tag='FALSE'
+ 
+14-05-2024 11:44:00 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=3 AND delete_tag='FALSE'
+ 
+14-05-2024 11:44:48 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=3 AND delete_tag='FALSE'
+ 
+14-05-2024 11:47:10 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=3 AND delete_tag='FALSE'
+ 
+14-05-2024 11:47:53 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=3 AND delete_tag='FALSE'
+ 
+15-05-2024 11:09:33 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+15-05-2024 11:09:42 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:12:08 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:13:32 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:20:15 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:22:51 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:23:15 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:24:41 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:25:31 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:26:40 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:27:34 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 11:27:55 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+15-05-2024 18:05:52 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+15-05-2024 18:10:50 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 05:51:14 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 05:52:11 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 05:53:04 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 07:00:41 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 07:01:15 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 07:01:42 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 07:05:24 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 07:07:11 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:16:21 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:21:47 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:21:51 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:22:57 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:23:02 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:23:06 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:24:15 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:24:17 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:24:19 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:24:26 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:25:31 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:25:32 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:25:33 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:27:07 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:27:11 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:27:15 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:29:06 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:29:48 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:31:45 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:32:03 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:32:25 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:34:14 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:47:13 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:48:56 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 10:56:50 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+16-05-2024 11:00:07 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+16-05-2024 11:00:29 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+16-05-2024 11:02:06 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=5 AND delete_tag='FALSE'
+ 
+19-05-2024 17:54:32 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=9 AND delete_tag='FALSE'
+ 
+19-05-2024 17:54:42 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 17:54:49 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=7 AND delete_tag='FALSE'
+ 
+19-05-2024 17:55:08 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=9 AND delete_tag='FALSE'
+ 
+19-05-2024 17:56:26 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 17:58:53 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:00:13 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:06:18 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:06:57 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:07:12 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:08:05 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=9 AND delete_tag='FALSE'
+ 
+19-05-2024 18:10:04 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=9 AND delete_tag='FALSE'
+ 
+19-05-2024 18:10:42 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=9 AND delete_tag='FALSE'
+ 
+19-05-2024 18:11:13 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:11:31 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:12:31 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:14:16 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=8 AND delete_tag='FALSE'
+ 
+19-05-2024 18:17:48 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=9 AND delete_tag='FALSE'
+ 
+19-05-2024 18:17:58 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+19-05-2024 18:18:02 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+19-05-2024 18:22:26 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+19-05-2024 18:22:49 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+19-05-2024 18:23:14 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+19-05-2024 18:24:23 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+19-05-2024 18:24:38 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+19-05-2024 18:25:22 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+19-05-2024 18:26:08 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 17:17:58 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 17:18:05 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:21:17 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:24:31 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:26:28 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:29:10 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:29:59 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:30:07 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=11 AND delete_tag='FALSE'
+ 
+26-05-2024 18:31:21 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:31:42 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:31:51 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=10 AND delete_tag='FALSE'
+ 
+26-05-2024 18:31:55 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=11 AND delete_tag='FALSE'
+ 
+26-05-2024 18:32:07 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 18:33:30 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:42:23 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id= AND delete_tag='FALSE'
+ 
+26-05-2024 18:43:06 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id= AND delete_tag='FALSE'
+ 
+26-05-2024 18:43:14 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:44:48 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:45:20 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:45:30 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:47:02 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 18:55:14 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 19:00:58 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 19:04:15 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 19:04:33 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=12 AND delete_tag='FALSE'
+ 
+26-05-2024 19:04:57 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=12 AND delete_tag='FALSE'
+ 
+26-05-2024 19:05:43 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 19:05:53 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=12 AND delete_tag='FALSE'
+ 
+26-05-2024 19:06:57 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=12 AND delete_tag='FALSE'
+ 
+26-05-2024 19:07:09 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=12 AND delete_tag='FALSE'
+ 
+26-05-2024 19:08:16 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 19:09:07 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=11 AND delete_tag='FALSE'
+ 
+26-05-2024 19:19:06 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:19:23 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 19:20:58 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:21:38 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:23:39 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:23:44 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:27:26 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:29:10 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:30:58 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 19:33:20 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:34:03 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 19:50:15 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 20:31:40 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=13 AND delete_tag='FALSE'
+ 
+26-05-2024 20:31:52 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=12 AND delete_tag='FALSE'
+ 
+26-05-2024 20:32:03 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=10 AND delete_tag='FALSE'
+ 
+26-05-2024 20:32:11 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=9 AND delete_tag='FALSE'
+ 
+26-05-2024 20:32:19 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=7 AND delete_tag='FALSE'
+ 
+26-05-2024 20:32:27 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=6 AND delete_tag='FALSE'
+ 
+26-05-2024 21:43:57 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=1 AND delete_tag='FALSE'
+ 
+26-05-2024 21:47:42 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=1 AND delete_tag='FALSE'
+ 
+26-05-2024 21:49:20 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=1 AND delete_tag='FALSE'
+ 
+26-05-2024 21:50:00 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=1 AND delete_tag='FALSE'
+ 
+03-06-2024 15:42:45 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=1 AND delete_tag='FALSE'
+ 
+05-06-2024 16:29:31 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=1 AND delete_tag='FALSE'
+ 
+05-06-2024 18:15:33 
+ - txt payment entry -SELECT * FROM  
+				txt_commission_receipt_bill_entry 
+				WHERE receipt_entry_id=2 AND delete_tag='FALSE'

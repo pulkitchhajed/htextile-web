@@ -1,0 +1,2 @@
+[26-May-2023 14:29:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '68.178.1.179' (101) in /home/jv9my685us5z/public_html/HTextile/includes/config.php on line 19
+[26-May-2023 14:34:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '68.178.1.179' (110) in /home/jv9my685us5z/public_html/HTextile/includes/config.php on line 19

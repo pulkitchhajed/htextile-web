@@ -1,0 +1,21 @@
+[06-Feb-2024 14:48:47 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 34
+[06-Feb-2024 14:48:48 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 34
+[06-Feb-2024 14:48:48 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 34
+[09-Feb-2024 10:44:02 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 34
+[09-Feb-2024 10:44:03 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 34
+[09-Feb-2024 10:44:03 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 34
+[18-Sep-2024 13:23:00 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 34
+[02-Oct-2024 10:27:40 UTC] PHP Notice:  Undefined index: bill_report_disp in /home/jv9my685us5z/public_html/Textile/search/buyerlist_asper_supplier_grp_print.php on line 58
+[23-Oct-2024 09:51:12 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 34
+[13-Apr-2025 06:59:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[13-Apr-2025 07:00:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[13-Apr-2025 07:00:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[13-Apr-2025 07:00:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[13-Apr-2025 07:01:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[13-Apr-2025 07:02:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[13-Apr-2025 07:04:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[13-Apr-2025 07:08:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[13-Apr-2025 07:08:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jv9my685us5z/public_html/HTextile/search/buyerlist_asper_supplier_grp_display.php on line 226
+[20-Jun-2025 06:26:42 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/HTextile/includes/header.php on line 34
+[20-Jun-2025 06:26:44 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/HTextile/includes/header.php on line 34
+[28-Nov-2025 13:48:40 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/HTextile/includes/header.php on line 34

@@ -1,0 +1,100 @@
+ 
+03-06-2024 14:27:20 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3554' and delete_tag='FALSE'
+ 
+03-06-2024 14:28:41 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3554' and delete_tag='FALSE'
+ 
+05-06-2024 12:52:07 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3595' and delete_tag='FALSE'
+ 
+05-06-2024 12:52:07 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3595' and delete_tag='FALSE'
+ 
+06-06-2024 13:44:06 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3602' and delete_tag='FALSE'
+ 
+06-06-2024 14:17:15 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3575' and delete_tag='FALSE'
+ 
+06-06-2024 14:18:04 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3573' and delete_tag='FALSE'
+ 
+06-06-2024 14:19:50 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3574' and delete_tag='FALSE'
+ 
+06-06-2024 14:20:55 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3576' and delete_tag='FALSE'
+ 
+12-06-2024 21:58:16 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3590' and delete_tag='FALSE'
+ 
+12-06-2024 21:58:59 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3604' and delete_tag='FALSE'
+ 
+13-06-2024 16:01:39 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3362' and delete_tag='FALSE'
+ 
+13-06-2024 16:01:39 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3362' and delete_tag='FALSE'
+ 
+19-06-2024 12:58:54 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3630' and delete_tag='FALSE'
+ 
+19-06-2024 12:58:54 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3630' and delete_tag='FALSE'
+ 
+19-06-2024 12:59:41 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3629' and delete_tag='FALSE'
+ 
+19-06-2024 12:59:41 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3629' and delete_tag='FALSE'
+ 
+19-06-2024 13:09:43 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3587' and delete_tag='FALSE'
+ 
+19-06-2024 13:13:22 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3587' and delete_tag='FALSE'
+ 
+19-06-2024 18:37:07 
+ - txt payment entry -SELECT * FROM 
+		txt_payment_bill_entry
+		WHERE payment_entry_id = '3587' and delete_tag='FALSE'

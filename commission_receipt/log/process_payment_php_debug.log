@@ -1,0 +1,1531 @@
+ 
+13-05-2024 22:27:14 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-13',
+			'Receipt',
+			'Final',
+			'460',
+			'33',
+			'14050',
+			'500',
+			'0',
+			'154',
+			'Testing',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+13-05-2024 22:27:14 
+Payment Entry Main - Success
+ 
+13-05-2024 22:27:14 
+Payment Entry Id - 1
+ 
+13-05-2024 22:27:14 
+ Payment Bill  - FailField 'bill_number' doesn't have a default value
+ 
+13-05-2024 22:29:31 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-13',
+			'Receipt',
+			'Final',
+			'460',
+			'33',
+			'14050',
+			'500',
+			'0',
+			'154',
+			'Testing one',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+13-05-2024 22:29:31 
+Payment Entry Main - Success
+ 
+13-05-2024 22:29:31 
+Payment Entry Id - 2
+ 
+13-05-2024 22:29:31 
+ Payment Bill - Success
+ 
+13-05-2024 22:29:31 
+Payment Entry Id  - Bill - 1
+ 
+13-05-2024 22:31:30 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-13',
+			'Receipt',
+			'Final',
+			'460',
+			'33',
+			'50000',
+			'0',
+			'0',
+			'155',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+13-05-2024 22:31:30 
+Payment Entry Main - Success
+ 
+13-05-2024 22:31:30 
+Payment Entry Id - 3
+ 
+13-05-2024 22:31:30 
+ Payment Bill - Success
+ 
+13-05-2024 22:31:30 
+Payment Entry Id  - Bill - 8
+ 
+13-05-2024 22:31:30 
+ Payment Bill - Success
+ 
+13-05-2024 22:31:30 
+Payment Entry Id  - Bill - 9
+ 
+13-05-2024 22:31:30 
+ Payment Bill - Success
+ 
+13-05-2024 22:31:30 
+Payment Entry Id  - Bill - 11
+ 
+15-05-2024 11:04:03 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-15',
+			'Receipt',
+			'Tentative',
+			'460',
+			'33',
+			'14050',
+			'500',
+			'0',
+			'154',
+			'Testing',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+15-05-2024 11:04:03 
+Payment Entry Main - Success
+ 
+15-05-2024 11:04:03 
+Payment Entry Id - 4
+ 
+15-05-2024 11:04:03 
+ Payment Bill  - FailIncorrect date value: '1' for column 'commission_bill_date' at row 1
+ 
+15-05-2024 11:07:33 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-15',
+			'Receipt',
+			'Tentative',
+			'460',
+			'33',
+			'14050',
+			'500',
+			'0',
+			'154',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+15-05-2024 11:07:33 
+Payment Entry Main - Success
+ 
+15-05-2024 11:07:33 
+Payment Entry Id - 5
+ 
+15-05-2024 11:07:33 
+ Payment Bill - Success
+ 
+15-05-2024 11:07:33 
+Payment Entry Id  - Bill - 1
+ 
+15-05-2024 11:08:24 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-15',
+			'Receipt',
+			'Tentative',
+			'460',
+			'33',
+			'25000',
+			'0',
+			'0',
+			'156',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+15-05-2024 11:08:24 
+Payment Entry Main - Success
+ 
+15-05-2024 11:08:24 
+Payment Entry Id - 6
+ 
+15-05-2024 11:08:24 
+ Payment Bill - Success
+ 
+15-05-2024 11:08:24 
+Payment Entry Id  - Bill - 8
+ 
+15-05-2024 11:08:24 
+ Payment Bill - Success
+ 
+15-05-2024 11:08:24 
+Payment Entry Id  - Bill - 9
+ 
+16-05-2024 07:01:36 
+ Payment Entry Main - 2You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'narration='',
+			last_update_user='1',
+			last_update_date=NOW()
+			WHERE rec' at line 9
+ 
+16-05-2024 07:04:26 
+Receipt Entry Main - 1
+ 
+16-05-2024 07:04:26 
+Receipt Entry Id - 
+ 
+16-05-2024 07:04:26 
+ BILL Entry DelUnknown column 'paymereceipt_entry_idt_entry_id' in 'where clause'
+ 
+16-05-2024 07:05:36 
+Receipt Entry Main - 1
+ 
+16-05-2024 07:05:36 
+Receipt Entry Id - 
+ 
+16-05-2024 07:05:36 
+ Bill Entry Del 1
+ 
+16-05-2024 07:05:36 
+Receipt Entry Id - 
+ 
+16-05-2024 07:07:31 
+Receipt Entry Main - 1
+ 
+16-05-2024 07:07:31 
+Receipt Entry Id - 
+ 
+16-05-2024 07:07:31 
+ Bill Entry Del 1
+ 
+16-05-2024 07:07:31 
+Receipt Entry Id - 
+ 
+16-05-2024 10:16:37 
+Receipt Entry Main - 1
+ 
+16-05-2024 10:16:37 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:16:37 
+ Bill Entry Del 1
+ 
+16-05-2024 10:16:37 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:22:34 
+Receipt Entry Main - 1
+ 
+16-05-2024 10:22:34 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:22:34 
+ Bill Entry Del 1
+ 
+16-05-2024 10:22:34 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:25:55 
+Receipt Entry Main - 1
+ 
+16-05-2024 10:25:55 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:25:55 
+ Bill Entry Del 1
+ 
+16-05-2024 10:25:55 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:27:45 
+Receipt Entry Main - 1
+ 
+16-05-2024 10:27:45 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:27:45 
+ Bill Entry Del 1
+ 
+16-05-2024 10:27:45 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:30:01 
+Receipt Entry Main - 1
+ 
+16-05-2024 10:30:01 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:30:01 
+ Bill Entry Del 1
+ 
+16-05-2024 10:30:01 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:30:01 
+ Payment Bill - Success
+ 
+16-05-2024 10:30:01 
+Payment Entry Id  - Bill - 8
+ 
+16-05-2024 10:30:01 
+ Payment Bill - Success
+ 
+16-05-2024 10:30:01 
+Payment Entry Id  - Bill - 9
+ 
+16-05-2024 10:31:58 
+Receipt Entry Main - 1
+ 
+16-05-2024 10:31:58 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:31:58 
+ Bill Entry Del 1
+ 
+16-05-2024 10:31:58 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:31:58 
+ Payment Bill - Success
+ 
+16-05-2024 10:31:58 
+Payment Entry Id  - Bill - 9
+ 
+16-05-2024 10:31:58 
+ Payment Bill - Success
+ 
+16-05-2024 10:31:58 
+Payment Entry Id  - Bill - 11
+ 
+16-05-2024 10:32:22 
+Receipt Entry Main - 1
+ 
+16-05-2024 10:32:22 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:32:22 
+ Bill Entry Del 1
+ 
+16-05-2024 10:32:22 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:32:22 
+ Payment Bill - Success
+ 
+16-05-2024 10:32:22 
+Payment Entry Id  - Bill - 11
+ 
+16-05-2024 10:32:22 
+ Payment Bill - Success
+ 
+16-05-2024 10:32:22 
+Payment Entry Id  - Bill - 8
+ 
+16-05-2024 10:34:11 
+Receipt Entry Main - 1
+ 
+16-05-2024 10:34:11 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:34:11 
+ Bill Entry Del 1
+ 
+16-05-2024 10:34:11 
+Receipt Entry Id - 6
+ 
+16-05-2024 10:34:11 
+ Payment Bill - Success
+ 
+16-05-2024 10:34:11 
+Payment Entry Id  - Bill - 11
+ 
+16-05-2024 10:34:11 
+ Payment Bill - Success
+ 
+16-05-2024 10:34:11 
+Payment Entry Id  - Bill - 8
+ 
+16-05-2024 11:00:22 
+Inside Delete Function
+ 
+16-05-2024 11:00:22 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='' 
+ 
+16-05-2024 11:01:05 
+Inside Delete Function
+ 
+16-05-2024 11:01:05 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='' 
+ 
+16-05-2024 11:01:42 
+Inside Delete Function
+ 
+16-05-2024 11:01:42 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='5' 
+ 
+16-05-2024 11:05:43 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-16',
+			'TDS',
+			'Tentative',
+			'576',
+			'597',
+			'0',
+			'95',
+			'0',
+			'0',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+16-05-2024 11:05:43 
+Payment Entry Main - Success
+ 
+16-05-2024 11:05:43 
+Payment Entry Id - 7
+ 
+16-05-2024 11:05:43 
+ Payment Bill - Success
+ 
+16-05-2024 11:05:43 
+Payment Entry Id  - Bill - 6
+ 
+16-05-2024 11:06:44 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-16',
+			'Receipt',
+			'Tentative',
+			'460',
+			'340',
+			'2000',
+			'0',
+			'0',
+			'154',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+16-05-2024 11:06:44 
+Payment Entry Main - Success
+ 
+16-05-2024 11:06:44 
+Payment Entry Id - 8
+ 
+16-05-2024 11:06:44 
+ Payment Bill - Success
+ 
+16-05-2024 11:06:44 
+Payment Entry Id  - Bill - 2
+ 
+19-05-2024 17:54:23 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-19',
+			'Advance Receipt',
+			'Tentative',
+			'246',
+			'48',
+			'25000',
+			'0',
+			'0',
+			'0',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+19-05-2024 17:54:23 
+Payment Entry Main - Success
+ 
+19-05-2024 17:54:23 
+Payment Entry Id - 9
+ 
+19-05-2024 18:11:01 
+Receipt Entry Main - 1
+ 
+19-05-2024 18:11:01 
+Receipt Entry Id - 9
+ 
+19-05-2024 18:11:01 
+ Bill Entry Del 1
+ 
+19-05-2024 18:11:01 
+Receipt Entry Id - 9
+ 
+19-05-2024 18:11:26 
+Receipt Entry Main - 1
+ 
+19-05-2024 18:11:26 
+Receipt Entry Id - 8
+ 
+19-05-2024 18:11:26 
+ Bill Entry Del 1
+ 
+19-05-2024 18:11:26 
+Receipt Entry Id - 8
+ 
+19-05-2024 18:11:26 
+ Payment Bill - Success
+ 
+19-05-2024 18:11:26 
+Payment Entry Id  - Bill - 2
+ 
+19-05-2024 18:12:27 
+Receipt Entry Main - 1
+ 
+19-05-2024 18:12:27 
+Receipt Entry Id - 8
+ 
+19-05-2024 18:12:27 
+ Bill Entry Del 1
+ 
+19-05-2024 18:12:27 
+Receipt Entry Id - 8
+ 
+19-05-2024 18:12:27 
+ Payment Bill - Success
+ 
+19-05-2024 18:12:27 
+Payment Entry Id  - Bill - 2
+ 
+19-05-2024 18:13:20 
+Receipt Entry Main - 1
+ 
+19-05-2024 18:13:20 
+Receipt Entry Id - 8
+ 
+19-05-2024 18:13:20 
+ Bill Entry Del 1
+ 
+19-05-2024 18:13:20 
+Receipt Entry Id - 8
+ 
+19-05-2024 18:13:20 
+ Payment Bill - Success
+ 
+19-05-2024 18:13:20 
+Payment Entry Id  - Bill - 2
+ 
+19-05-2024 18:14:31 
+Inside Delete Function
+ 
+19-05-2024 18:14:31 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='8' 
+ 
+20-05-2024 10:57:36 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-20',
+			'Receipt',
+			'Tentative',
+			'460',
+			'340',
+			'25000',
+			'500',
+			'0',
+			'0',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+20-05-2024 10:57:36 
+Payment Entry Main - Success
+ 
+20-05-2024 10:57:36 
+Payment Entry Id - 10
+ 
+20-05-2024 10:57:36 
+ Payment Bill - Success
+ 
+20-05-2024 10:57:36 
+Payment Entry Id  - Bill - 2
+ 
+20-05-2024 10:58:46 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-20',
+			'TDS',
+			'Final',
+			'460',
+			'33',
+			'0',
+			'500',
+			'0',
+			'0',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+20-05-2024 10:58:46 
+Payment Entry Main - Success
+ 
+20-05-2024 10:58:46 
+Payment Entry Id - 11
+ 
+20-05-2024 10:58:46 
+ Payment Bill - Success
+ 
+20-05-2024 10:58:46 
+Payment Entry Id  - Bill - 1
+ 
+20-05-2024 11:02:47 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-20',
+			'Receipt',
+			'Final',
+			'252',
+			'345',
+			'15000',
+			'500',
+			'0',
+			'0',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+20-05-2024 11:02:47 
+Payment Entry Main - Success
+ 
+20-05-2024 11:02:47 
+Payment Entry Id - 12
+ 
+20-05-2024 11:02:47 
+ Payment Bill - Success
+ 
+20-05-2024 11:02:47 
+Payment Entry Id  - Bill - 12
+ 
+20-05-2024 11:02:47 
+ Payment Bill - Success
+ 
+20-05-2024 11:02:47 
+Payment Entry Id  - Bill - 5
+ 
+26-05-2024 12:39:15 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-05-26',
+			'Receipt',
+			'Final',
+			'460',
+			'33',
+			'8844.2',
+			'0',
+			'0',
+			'0',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+26-05-2024 12:39:15 
+Payment Entry Main - Success
+ 
+26-05-2024 12:39:15 
+Payment Entry Id - 13
+ 
+26-05-2024 12:39:15 
+ Payment Bill - Success
+ 
+26-05-2024 12:39:15 
+Payment Entry Id  - Bill - 8
+ 
+26-05-2024 18:55:28 
+Receipt Entry Main - 1
+ 
+26-05-2024 18:55:28 
+Receipt Entry Id - 13
+ 
+26-05-2024 18:55:28 
+ Bill Entry Del 1
+ 
+26-05-2024 18:55:28 
+Receipt Entry Id - 13
+ 
+26-05-2024 18:55:28 
+ Payment Bill - Success
+ 
+26-05-2024 18:55:28 
+Payment Entry Id  - Bill - 8
+ 
+26-05-2024 19:04:52 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:04:52 
+Receipt Entry Id - 12
+ 
+26-05-2024 19:04:52 
+ Bill Entry Del 1
+ 
+26-05-2024 19:04:52 
+Receipt Entry Id - 12
+ 
+26-05-2024 19:04:52 
+ Payment Bill - Success
+ 
+26-05-2024 19:04:52 
+Payment Entry Id  - Bill - 12
+ 
+26-05-2024 19:04:52 
+ Payment Bill - Success
+ 
+26-05-2024 19:04:52 
+Payment Entry Id  - Bill - 5
+ 
+26-05-2024 19:06:03 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:06:03 
+Receipt Entry Id - 12
+ 
+26-05-2024 19:06:03 
+ Bill Entry Del 1
+ 
+26-05-2024 19:06:03 
+Receipt Entry Id - 12
+ 
+26-05-2024 19:06:03 
+ Payment Bill - Success
+ 
+26-05-2024 19:06:03 
+Payment Entry Id  - Bill - 12
+ 
+26-05-2024 19:06:03 
+ Payment Bill - Success
+ 
+26-05-2024 19:06:03 
+Payment Entry Id  - Bill - 5
+ 
+26-05-2024 19:07:02 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:07:02 
+Receipt Entry Id - 12
+ 
+26-05-2024 19:07:02 
+ Bill Entry Del 1
+ 
+26-05-2024 19:07:02 
+Receipt Entry Id - 12
+ 
+26-05-2024 19:07:02 
+ Payment Bill - Success
+ 
+26-05-2024 19:07:02 
+Payment Entry Id  - Bill - 12
+ 
+26-05-2024 19:07:02 
+ Payment Bill - Success
+ 
+26-05-2024 19:07:02 
+Payment Entry Id  - Bill - 5
+ 
+26-05-2024 19:07:21 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:07:21 
+Receipt Entry Id - 12
+ 
+26-05-2024 19:07:21 
+ Bill Entry Del 1
+ 
+26-05-2024 19:07:21 
+Receipt Entry Id - 12
+ 
+26-05-2024 19:07:21 
+ Payment Bill - Success
+ 
+26-05-2024 19:07:21 
+Payment Entry Id  - Bill - 12
+ 
+26-05-2024 19:07:21 
+ Payment Bill - Success
+ 
+26-05-2024 19:07:21 
+Payment Entry Id  - Bill - 5
+ 
+26-05-2024 19:09:22 
+Inside Delete Function
+ 
+26-05-2024 19:09:22 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='11' 
+ 
+26-05-2024 19:21:21 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:21:21 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:21:21 
+ Bill Entry Del 1
+ 
+26-05-2024 19:21:21 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:21:21 
+ Payment Bill - Success
+ 
+26-05-2024 19:21:21 
+Payment Entry Id  - Bill - 11
+ 
+26-05-2024 19:21:21 
+ Payment Bill - Success
+ 
+26-05-2024 19:21:21 
+Payment Entry Id  - Bill - 8
+ 
+26-05-2024 19:21:21 
+ Payment Bill - Success
+ 
+26-05-2024 19:21:21 
+Payment Entry Id  - Bill - 1
+ 
+26-05-2024 19:23:53 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:23:53 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:23:53 
+ Bill Entry Del 1
+ 
+26-05-2024 19:23:53 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:23:53 
+ Payment Bill - Success
+ 
+26-05-2024 19:23:53 
+Payment Entry Id  - Bill - 11
+ 
+26-05-2024 19:23:53 
+ Payment Bill - Success
+ 
+26-05-2024 19:23:53 
+Payment Entry Id  - Bill - 8
+ 
+26-05-2024 19:23:53 
+ Payment Bill - Success
+ 
+26-05-2024 19:23:53 
+Payment Entry Id  - Bill - 1
+ 
+26-05-2024 19:27:35 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:27:35 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:27:35 
+ Bill Entry Del 1
+ 
+26-05-2024 19:27:35 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:27:35 
+ Payment Bill - Success
+ 
+26-05-2024 19:27:35 
+Payment Entry Id  - Bill - 11
+ 
+26-05-2024 19:27:35 
+ Payment Bill - Success
+ 
+26-05-2024 19:27:35 
+Payment Entry Id  - Bill - 8
+ 
+26-05-2024 19:27:35 
+ Payment Bill - Success
+ 
+26-05-2024 19:27:35 
+Payment Entry Id  - Bill - 1
+ 
+26-05-2024 19:29:22 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:29:22 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:29:22 
+ Bill Entry Del 1
+ 
+26-05-2024 19:29:22 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:29:22 
+ Payment Bill - Success
+ 
+26-05-2024 19:29:22 
+Payment Entry Id  - Bill - 11
+ 
+26-05-2024 19:29:22 
+ Payment Bill - Success
+ 
+26-05-2024 19:29:22 
+Payment Entry Id  - Bill - 8
+ 
+26-05-2024 19:29:22 
+ Payment Bill - Success
+ 
+26-05-2024 19:29:22 
+Payment Entry Id  - Bill - 1
+ 
+26-05-2024 19:33:26 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:33:26 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:33:26 
+ Bill Entry Del 1
+ 
+26-05-2024 19:33:26 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:33:26 
+ Payment Bill - Success
+ 
+26-05-2024 19:33:26 
+Payment Entry Id  - Bill - 11
+ 
+26-05-2024 19:33:26 
+ Payment Bill - Success
+ 
+26-05-2024 19:33:26 
+Payment Entry Id  - Bill - 8
+ 
+26-05-2024 19:33:26 
+ Payment Bill - Success
+ 
+26-05-2024 19:33:26 
+Payment Entry Id  - Bill - 1
+ 
+26-05-2024 19:34:09 
+Receipt Entry Main - 1
+ 
+26-05-2024 19:34:09 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:34:09 
+ Bill Entry Del 1
+ 
+26-05-2024 19:34:09 
+Receipt Entry Id - 6
+ 
+26-05-2024 19:34:09 
+ Payment Bill - Success
+ 
+26-05-2024 19:34:09 
+Payment Entry Id  - Bill - 11
+ 
+26-05-2024 19:34:09 
+ Payment Bill - Success
+ 
+26-05-2024 19:34:09 
+Payment Entry Id  - Bill - 8
+ 
+26-05-2024 19:34:09 
+ Payment Bill - Success
+ 
+26-05-2024 19:34:09 
+Payment Entry Id  - Bill - 1
+ 
+26-05-2024 20:31:50 
+Inside Delete Function
+ 
+26-05-2024 20:31:50 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='13' 
+ 
+26-05-2024 20:32:01 
+Inside Delete Function
+ 
+26-05-2024 20:32:01 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='12' 
+ 
+26-05-2024 20:32:09 
+Inside Delete Function
+ 
+26-05-2024 20:32:09 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='10' 
+ 
+26-05-2024 20:32:17 
+Inside Delete Function
+ 
+26-05-2024 20:32:17 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='9' 
+ 
+26-05-2024 20:32:25 
+Inside Delete Function
+ 
+26-05-2024 20:32:25 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='7' 
+ 
+26-05-2024 20:32:33 
+Inside Delete Function
+ 
+26-05-2024 20:32:33 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='1',
+			delete_date=NOW()
+			WHERE receipt_entry_id='6' 
+ 
+26-05-2024 21:42:39 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2023-10-30',
+			'Receipt',
+			'Final',
+			'8',
+			'35',
+			'310968',
+			'16366.99',
+			'0',
+			'392111',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+26-05-2024 21:42:39 
+Payment Entry Main - Success
+ 
+26-05-2024 21:42:39 
+Payment Entry Id - 1
+ 
+26-05-2024 21:42:39 
+ Payment Bill - Success
+ 
+26-05-2024 21:42:39 
+Payment Entry Id  - Bill - 3
+ 
+26-05-2024 21:55:06 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-03-26',
+			'Receipt',
+			'Final',
+			'253',
+			'48',
+			'36470',
+			'1919.35',
+			'0',
+			'371',
+			'',
+			'1',
+			NOW(),			
+			'1',
+			NOW()
+			)
+ 
+26-05-2024 21:55:06 
+Payment Entry Main - Success
+ 
+26-05-2024 21:55:06 
+Payment Entry Id - 2
+ 
+26-05-2024 21:55:06 
+ Payment Bill - Success
+ 
+26-05-2024 21:55:06 
+Payment Entry Id  - Bill - 4
+ 
+03-06-2024 15:38:52 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-06-03',
+			'Receipt',
+			'Tentative',
+			'10',
+			'224',
+			'120000',
+			'0',
+			'0',
+			'0',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 15:38:52 
+Payment Entry Main - Success
+ 
+03-06-2024 15:38:52 
+Payment Entry Id - 1
+ 
+03-06-2024 15:38:52 
+ Payment Bill - Success
+ 
+03-06-2024 15:38:52 
+Payment Entry Id  - Bill - 1
+ 
+05-06-2024 16:29:42 
+Inside Delete Function
+ 
+05-06-2024 16:29:42 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='9',
+			delete_date=NOW()
+			WHERE receipt_entry_id='1' 
+ 
+05-06-2024 18:11:59 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-06-05',
+			'Receipt',
+			'Final',
+			'35',
+			'224',
+			'1984',
+			'0',
+			'0',
+			'0',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 18:11:59 
+Payment Entry Main - Success
+ 
+05-06-2024 18:11:59 
+Payment Entry Id - 2
+ 
+05-06-2024 18:11:59 
+ Payment Bill - Success
+ 
+05-06-2024 18:11:59 
+Payment Entry Id  - Bill - 17
+ 
+05-06-2024 18:15:41 
+Inside Delete Function
+ 
+05-06-2024 18:15:41 
+UPDATE txt_commission_receipt_entry_main  set
+			delete_tag='TRUE',
+			delete_user='9',
+			delete_date=NOW()
+			WHERE receipt_entry_id='2' 
+ 
+05-06-2024 18:16:51 
+insert into 
+			txt_commission_receipt_entry_main
+			(receipt_date,
+			receipt_type, 
+			receipt_mode,
+			supplier_account_code,
+			agent_account_code,
+			receipt_amount,
+			deduction_amount,
+			bank_name,
+			cheque_number,
+			narration,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('2024-06-05',
+			'Receipt',
+			'Final',
+			'35',
+			'224',
+			'1984',
+			'0',
+			'0',
+			'0',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 18:16:51 
+Payment Entry Main - Success
+ 
+05-06-2024 18:16:51 
+Payment Entry Id - 3
+ 
+05-06-2024 18:16:51 
+ Payment Bill - Success
+ 
+05-06-2024 18:16:51 
+Payment Entry Id  - Bill - 17

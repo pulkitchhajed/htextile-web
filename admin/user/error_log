@@ -1,0 +1,7 @@
+[05-Jun-2023 09:50:27 UTC] PHP Notice:  Undefined index: ROLEID in /home/jv9my685us5z/public_html/HTextile/includes/check_session_admin.php on line 15
+[05-Jun-2023 09:50:27 UTC] PHP Notice:  Undefined index: ROLEID in /home/jv9my685us5z/public_html/HTextile/includes/check_session_admin.php on line 15
+[05-Jun-2023 09:50:27 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/HTextile/includes/header.php on line 34
+[05-Aug-2024 16:16:30 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/HTextile/includes/header.php on line 34
+[06-Aug-2024 03:02:20 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/HTextile/includes/header.php on line 34
+[06-Aug-2024 08:29:24 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/HTextile/includes/header.php on line 34
+[21-Aug-2024 07:36:51 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/HTextile/includes/header.php on line 34

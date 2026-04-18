@@ -1,0 +1,113 @@
+ 
+15-05-2024 11:04:03 
+
+ *******Fail **************** 
+ 15-05-2024 11:04:03
+ 
+15-05-2024 11:04:03 
+
+ Incorrect date value: '1' for column 'commission_bill_date' at row 1
+ 
+15-05-2024 11:04:03 
+
+insert into 
+							txt_commission_receipt_bill_entry 
+							(   
+								receipt_entry_id,
+								receipt_date,
+								commission_bill_entry_id,
+								commission_bill_number,
+								commission_bill_date,
+								commission_year,
+								commission_mode,
+								commission_amt_bill,
+								commission_amt_pay,
+								receipt_bill_pay,
+								amount_adjusted,
+								receipt_part_full,
+								deduction_adjusted,
+								received_amount,
+								deduction_amount,
+								balance_amount,
+								remark,
+								receipt_type,
+								receipt_mode,
+								create_user,
+								create_date,
+								last_update_user,
+								last_update_date
+							)
+							values
+							(
+								'4',
+								'2024-05-15',
+								'1',
+								'1',
+								'1',
+								'2022-2023',
+								'Payment Wise',
+								'2776.14',
+								'14550',
+								'Payment Wise',
+								'0',
+								'Full',
+								'0',
+								'14050',
+								'500',
+								'0',
+								'',
+								'Receipt',
+								'Tentative',
+								'1',
+								NOW(),
+								'1',
+								NOW()
+							)
+ 
+ 
+16-05-2024 07:01:36 
+
+ *******Fail **************** 
+ 16-05-2024 07:01:36
+ 
+16-05-2024 07:01:36 
+
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'narration='',
+			last_update_user='1',
+			last_update_date=NOW()
+			WHERE rec' at line 9
+ 
+16-05-2024 07:01:36 
+
+UPDATE txt_commission_receipt_entry_main  set
+			receipt_date='2024-05-15',
+			receipt_type='Receipt', 
+			receipt_mode='Tentative',
+			receipt_amount='25000', 
+			deduction_amount='0', 
+			bank_name='0',
+			cheque_number='156';
+			narration='',
+			last_update_user='1',
+			last_update_date=NOW()
+			WHERE receipt_entry_id='' 
+ 
+ 
+16-05-2024 07:04:26 
+
+ *******Fail **************** 
+ 16-05-2024 07:04:26
+ 
+16-05-2024 07:04:26 
+
+ Unknown column 'paymereceipt_entry_idt_entry_id' in 'where clause'
+ 
+16-05-2024 07:04:26 
+
+UPDATE txt_commission_receipt_bill_entry SET
+					delete_tag='TRUE',
+					last_update_user='1',
+					last_update_date=NOW(),
+					delete_date=NOW()
+					where paymereceipt_entry_idt_entry_id='' 
+ 

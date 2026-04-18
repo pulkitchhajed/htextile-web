@@ -1,0 +1,5075 @@
+ 
+03-06-2024 16:40:47 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30291',
+			'2024-5-29',
+			'8',
+			'2',
+			'60000',
+			'0',
+			'0',
+			'Advance Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 16:40:47 
+Payment Entry Main - Success
+ 
+03-06-2024 16:40:47 
+Payment Entry Id - 3587
+ 
+03-06-2024 16:40:47 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3587',
+							'', 
+							'1970-01-01',
+							'rtgs',
+							'60000',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+03-06-2024 16:40:47 
+Chq  - Success
+ 
+03-06-2024 16:40:47 
+Payment Entry Id - 3587
+ 
+03-06-2024 16:42:28 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30292',
+			'2024-05-29',
+			'122',
+			'174',
+			'82105',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 16:42:28 
+Payment Entry Main - Success
+ 
+03-06-2024 16:42:28 
+Payment Entry Id - 3588
+ 
+03-06-2024 16:42:28 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3588',
+							'', 
+							'1970-01-01',
+							'rtgs',
+							'82105',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+03-06-2024 16:42:28 
+Chq  - Success
+ 
+03-06-2024 16:42:28 
+Payment Entry Id - 3588
+ 
+03-06-2024 16:42:28 
+ Payment Bill - Success
+ 
+03-06-2024 16:42:28 
+Payment Entry Id  - Bill - 2601
+ 
+03-06-2024 16:42:28 
+ Payment Bill - Success
+ 
+03-06-2024 16:42:28 
+Payment Entry Id  - Bill - 2634
+ 
+03-06-2024 16:43:50 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30293',
+			'2024-5-30',
+			'109',
+			'2',
+			'7287',
+			'0',
+			'0',
+			'Advance Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 16:43:50 
+Payment Entry Main - Success
+ 
+03-06-2024 16:43:50 
+Payment Entry Id - 3589
+ 
+03-06-2024 16:43:50 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3589',
+							'', 
+							'1970-01-01',
+							'rtgs',
+							'7287',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+03-06-2024 16:43:50 
+Chq  - Success
+ 
+03-06-2024 16:43:50 
+Payment Entry Id - 3589
+ 
+03-06-2024 16:44:34 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30294',
+			'2024-5-30',
+			'10',
+			'2',
+			'25000',
+			'0',
+			'0',
+			'Advance Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 16:44:34 
+Payment Entry Main - Success
+ 
+03-06-2024 16:44:34 
+Payment Entry Id - 3590
+ 
+03-06-2024 16:44:34 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3590',
+							'', 
+							'1970-01-01',
+							'rtgs',
+							'25000',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+03-06-2024 16:44:34 
+Chq  - Success
+ 
+03-06-2024 16:44:34 
+Payment Entry Id - 3590
+ 
+03-06-2024 16:46:06 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30295',
+			'2024-6-1',
+			'93',
+			'87',
+			'0',
+			'0',
+			'64916',
+			'Goods Return',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 16:46:06 
+Payment Entry Main - Success
+ 
+03-06-2024 16:46:06 
+Payment Entry Id - 3591
+ 
+03-06-2024 16:46:06 
+GR - Success
+ 
+03-06-2024 16:46:06 
+Payment Entry Id - 3591
+ 
+03-06-2024 16:46:06 
+GR - Success
+ 
+03-06-2024 16:46:06 
+Payment Entry Id - 3591
+ 
+03-06-2024 16:46:06 
+ Payment Bill - Success
+ 
+03-06-2024 16:46:06 
+Payment Entry Id  - Bill - 316
+ 
+03-06-2024 16:46:06 
+ Payment Bill - Success
+ 
+03-06-2024 16:46:06 
+Payment Entry Id  - Bill - 317
+ 
+03-06-2024 16:48:52 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30296',
+			'2024-06-01',
+			'122',
+			'174',
+			'100000',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 16:48:52 
+Payment Entry Main - Success
+ 
+03-06-2024 16:48:52 
+Payment Entry Id - 3592
+ 
+03-06-2024 16:48:52 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3592',
+							'', 
+							'1970-01-01',
+							'rtgs',
+							'100000',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+03-06-2024 16:48:52 
+Chq  - Success
+ 
+03-06-2024 16:48:52 
+Payment Entry Id - 3592
+ 
+03-06-2024 16:48:52 
+ Payment Bill - Success
+ 
+03-06-2024 16:48:52 
+Payment Entry Id  - Bill - 2634
+ 
+03-06-2024 16:49:37 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30297',
+			'2024-06-03',
+			'128',
+			'188',
+			'71383',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 16:49:37 
+Payment Entry Main - Success
+ 
+03-06-2024 16:49:37 
+Payment Entry Id - 3593
+ 
+03-06-2024 16:49:37 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3593',
+							'', 
+							'1970-01-01',
+							'rtgs',
+							'71383',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+03-06-2024 16:49:37 
+Chq  - Success
+ 
+03-06-2024 16:49:37 
+Payment Entry Id - 3593
+ 
+03-06-2024 16:49:37 
+ Payment Bill - Success
+ 
+03-06-2024 16:49:37 
+Payment Entry Id  - Bill - 1264
+ 
+03-06-2024 16:50:27 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30298',
+			'2024-06-03',
+			'4',
+			'141',
+			'0',
+			'0',
+			'62164',
+			'Goods Return',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+03-06-2024 16:50:27 
+Payment Entry Main - Success
+ 
+03-06-2024 16:50:27 
+Payment Entry Id - 3594
+ 
+03-06-2024 16:50:27 
+GR - Success
+ 
+03-06-2024 16:50:27 
+Payment Entry Id - 3594
+ 
+03-06-2024 16:50:27 
+ Payment Bill - Success
+ 
+03-06-2024 16:50:27 
+Payment Entry Id  - Bill - 0008
+ 
+05-06-2024 12:50:24 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30451',
+			'2024-06-04',
+			'4',
+			'140',
+			'0',
+			'0',
+			'24700',
+			'GR After Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 12:50:24 
+Payment Entry Main - Success
+ 
+05-06-2024 12:50:24 
+Payment Entry Id - 3595
+ 
+05-06-2024 12:50:24 
+GR - Success
+ 
+05-06-2024 12:50:24 
+Payment Entry Id - 3595
+ 
+05-06-2024 12:52:49 
+Payment Entry Main - 1
+ 
+05-06-2024 12:52:49 
+Payment Entry Id - 3595
+ 
+05-06-2024 12:52:49 
+Old GR - 1
+ 
+05-06-2024 12:52:49 
+Payment Entry Id - 3595
+ 
+05-06-2024 12:52:49 
+ GR - 1
+ 
+05-06-2024 12:52:49 
+Payment Entry Id - 3595
+ 
+05-06-2024 12:52:49 
+ Bill - 1
+ 
+05-06-2024 12:52:49 
+Payment Entry Id Bill Entry Delete 3595
+ 
+05-06-2024 12:52:49 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3595',
+										'2024-06-04',
+										'6383',
+										'49',
+										'2024-04-24',
+										'152583',
+										'0',
+										'0',
+										'0',
+										'Part',
+										'0',
+										'0',
+										'0',
+										'0',
+										'34700',
+										'117883',
+										'',
+										'9',
+										NOW()
+									)
+ 
+05-06-2024 12:52:49 
+Bill - 1
+ 
+05-06-2024 12:52:49 
+Payment Entry Id  - Bill - 49
+ 
+05-06-2024 12:54:35 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30452',
+			'2024-06-04',
+			'4',
+			'140',
+			'0',
+			'0',
+			'14763',
+			'Goods Return',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 12:54:35 
+Payment Entry Main - Success
+ 
+05-06-2024 12:54:35 
+Payment Entry Id - 3596
+ 
+05-06-2024 12:54:35 
+GR - Success
+ 
+05-06-2024 12:54:35 
+Payment Entry Id - 3596
+ 
+05-06-2024 12:54:35 
+ Payment Bill - Success
+ 
+05-06-2024 12:54:35 
+Payment Entry Id  - Bill - 57
+ 
+05-06-2024 12:59:08 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30453',
+			'2024-06-04',
+			'93',
+			'87',
+			'34259',
+			'1008',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 12:59:08 
+Payment Entry Main - Success
+ 
+05-06-2024 12:59:08 
+Payment Entry Id - 3597
+ 
+05-06-2024 12:59:08 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3597',
+							'000152', 
+							'1970-01-01',
+							'HDFC',
+							'34259',
+							'1008',
+							'',
+							'9',
+								NOW()
+							)
+ 
+05-06-2024 12:59:08 
+Chq  - Success
+ 
+05-06-2024 12:59:08 
+Payment Entry Id - 3597
+ 
+05-06-2024 12:59:08 
+ Payment Bill - Success
+ 
+05-06-2024 12:59:08 
+Payment Entry Id  - Bill - 232
+ 
+05-06-2024 13:02:07 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30454',
+			'2024-06-05',
+			'4',
+			'16',
+			'170000',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 13:02:07 
+Payment Entry Main - Success
+ 
+05-06-2024 13:02:07 
+Payment Entry Id - 3598
+ 
+05-06-2024 13:02:07 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3598',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'170000',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+05-06-2024 13:02:07 
+Chq  - Success
+ 
+05-06-2024 13:02:07 
+Payment Entry Id - 3598
+ 
+05-06-2024 13:02:07 
+ Payment Bill - Success
+ 
+05-06-2024 13:02:07 
+Payment Entry Id  - Bill - 373
+ 
+05-06-2024 13:02:07 
+ Payment Bill - Success
+ 
+05-06-2024 13:02:07 
+Payment Entry Id  - Bill - 374
+ 
+05-06-2024 13:02:07 
+ Payment Bill - Success
+ 
+05-06-2024 13:02:07 
+Payment Entry Id  - Bill - 375
+ 
+05-06-2024 13:04:00 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30455',
+			'2024-06-05',
+			'10',
+			'16',
+			'230000',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 13:04:00 
+Payment Entry Main - Success
+ 
+05-06-2024 13:04:00 
+Payment Entry Id - 3599
+ 
+05-06-2024 13:04:00 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3599',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'230000',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+05-06-2024 13:04:00 
+Chq  - Success
+ 
+05-06-2024 13:04:00 
+Payment Entry Id - 3599
+ 
+05-06-2024 13:04:00 
+ Payment Bill - Success
+ 
+05-06-2024 13:04:00 
+Payment Entry Id  - Bill - 2721
+ 
+05-06-2024 13:04:00 
+ Payment Bill - Success
+ 
+05-06-2024 13:04:00 
+Payment Entry Id  - Bill - 2815
+ 
+05-06-2024 13:04:00 
+ Payment Bill - Success
+ 
+05-06-2024 13:04:00 
+Payment Entry Id  - Bill - 2816
+ 
+05-06-2024 13:04:00 
+ Payment Bill - Success
+ 
+05-06-2024 13:04:00 
+Payment Entry Id  - Bill - 2822
+ 
+05-06-2024 13:06:02 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30456',
+			'2024-06-05',
+			'8',
+			'16',
+			'200000',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 13:06:02 
+Payment Entry Main - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id - 3600
+ 
+05-06-2024 13:06:02 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3600',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'200000',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+05-06-2024 13:06:02 
+Chq  - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id - 3600
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 47
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 48
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 49
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 50
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 57
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 65
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 66
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 67
+ 
+05-06-2024 13:06:02 
+ Payment Bill - Success
+ 
+05-06-2024 13:06:02 
+Payment Entry Id  - Bill - 68
+ 
+05-06-2024 14:06:18 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30457',
+			'2024-06-05',
+			'1',
+			'13',
+			'32835',
+			'1016',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 14:06:18 
+Payment Entry Main - Success
+ 
+05-06-2024 14:06:18 
+Payment Entry Id - 3601
+ 
+05-06-2024 14:06:18 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3601',
+							'', 
+							'1970-01-01',
+							'UCO BANK',
+							'32835',
+							'1016',
+							'',
+							'9',
+								NOW()
+							)
+ 
+05-06-2024 14:06:18 
+Chq  - Success
+ 
+05-06-2024 14:06:18 
+Payment Entry Id - 3601
+ 
+05-06-2024 14:06:18 
+ Payment Bill - Success
+ 
+05-06-2024 14:06:18 
+Payment Entry Id  - Bill - 120
+ 
+05-06-2024 17:45:56 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('yuvi',
+			'2024-06-05',
+			'93',
+			'117',
+			'69115',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+05-06-2024 17:45:56 
+Payment Entry Main - Success
+ 
+05-06-2024 17:45:56 
+Payment Entry Id - 3602
+ 
+05-06-2024 17:45:56 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3602',
+							'', 
+							'1970-01-01',
+							'rtgs',
+							'69115',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+05-06-2024 17:45:56 
+Chq  - Success
+ 
+05-06-2024 17:45:56 
+Payment Entry Id - 3602
+ 
+05-06-2024 17:45:56 
+ Payment Bill - Success
+ 
+05-06-2024 17:45:56 
+Payment Entry Id  - Bill - 368
+ 
+06-06-2024 13:44:57 
+Payment Entry Main - 1
+ 
+06-06-2024 13:44:57 
+Payment Entry Id - 3602
+ 
+06-06-2024 13:44:57 
+Chq  - 1
+ 
+06-06-2024 13:44:57 
+Payment Entry Id - 3602
+ 
+06-06-2024 13:44:57 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3602',
+									'', 
+									'1970-01-01',
+									'rtgs',
+									'69115',
+									'0',
+									'',
+									'9',
+										NOW()
+									)
+ 
+06-06-2024 13:44:57 
+ Chq  - 1
+ 
+06-06-2024 13:44:57 
+Payment Entry Id - 3602
+ 
+06-06-2024 13:44:57 
+ Bill - 1
+ 
+06-06-2024 13:44:57 
+Payment Entry Id Bill Entry Delete 3602
+ 
+06-06-2024 13:44:57 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3602',
+										'2024-06-05',
+										'6465',
+										'368',
+										'2024-05-08',
+										'69115',
+										'0',
+										'0',
+										'0',
+										'Full',
+										'69115',
+										'0',
+										'0',
+										'0',
+										'0',
+										'0',
+										'',
+										'9',
+										NOW()
+									)
+ 
+06-06-2024 13:44:57 
+Bill - 1
+ 
+06-06-2024 13:44:57 
+Payment Entry Id  - Bill - 368
+ 
+06-06-2024 13:46:43 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30459',
+			'2024-06-06',
+			'10',
+			'81',
+			'146900',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+06-06-2024 13:46:43 
+Payment Entry Main - Success
+ 
+06-06-2024 13:46:43 
+Payment Entry Id - 3603
+ 
+06-06-2024 13:46:43 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3603',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'146900',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+06-06-2024 13:46:43 
+Chq  - Success
+ 
+06-06-2024 13:46:43 
+Payment Entry Id - 3603
+ 
+06-06-2024 13:46:43 
+ Payment Bill - Success
+ 
+06-06-2024 13:46:43 
+Payment Entry Id  - Bill - 684
+ 
+06-06-2024 13:46:43 
+ Payment Bill - Success
+ 
+06-06-2024 13:46:43 
+Payment Entry Id  - Bill - 732
+ 
+06-06-2024 13:49:23 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30460',
+			'2024-06-06',
+			'10',
+			'2',
+			'1922',
+			'0',
+			'0',
+			'Advance Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+06-06-2024 13:49:23 
+Payment Entry Main - Success
+ 
+06-06-2024 13:49:23 
+Payment Entry Id - 3604
+ 
+06-06-2024 13:49:23 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3604',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'1922',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+06-06-2024 13:49:23 
+Chq  - Success
+ 
+06-06-2024 13:49:23 
+Payment Entry Id - 3604
+ 
+06-06-2024 13:52:38 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('SHU',
+			'2024-06-04',
+			'10',
+			'81',
+			'110434',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+06-06-2024 13:52:38 
+Payment Entry Main - Success
+ 
+06-06-2024 13:52:38 
+Payment Entry Id - 3605
+ 
+06-06-2024 13:52:38 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3605',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'110434',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+06-06-2024 13:52:38 
+Chq  - Success
+ 
+06-06-2024 13:52:38 
+Payment Entry Id - 3605
+ 
+06-06-2024 13:52:38 
+ Payment Bill - Success
+ 
+06-06-2024 13:52:38 
+Payment Entry Id  - Bill - 633
+ 
+06-06-2024 13:52:38 
+ Payment Bill - Success
+ 
+06-06-2024 13:52:38 
+Payment Entry Id  - Bill - 662
+ 
+12-06-2024 21:58:43 
+Payment Entry Main - 1
+ 
+12-06-2024 21:58:43 
+Payment Entry Id - 3590
+ 
+12-06-2024 21:58:43 
+Chq  - 1
+ 
+12-06-2024 21:58:43 
+Payment Entry Id - 3590
+ 
+12-06-2024 21:58:43 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3590',
+									'', 
+									'1970-01-01',
+									'rtgs',
+									'25000',
+									'0',
+									'',
+									'9',
+										NOW()
+									)
+ 
+12-06-2024 21:58:43 
+ Chq  - 1
+ 
+12-06-2024 21:58:43 
+Payment Entry Id - 3590
+ 
+12-06-2024 21:58:43 
+ Bill - 1
+ 
+12-06-2024 21:58:43 
+Payment Entry Id Bill Entry Delete 3590
+ 
+12-06-2024 21:58:43 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3590',
+										'2024-05-30',
+										'6555',
+										'1449',
+										'2024-06-03',
+										'26922',
+										'0',
+										'0',
+										'0',
+										'Part',
+										'25000',
+										'0',
+										'0',
+										'0',
+										'0',
+										'1922',
+										'',
+										'9',
+										NOW()
+									)
+ 
+12-06-2024 21:58:43 
+Bill - 1
+ 
+12-06-2024 21:58:43 
+Payment Entry Id  - Bill - 1449
+ 
+12-06-2024 21:59:17 
+Payment Entry Main - 1
+ 
+12-06-2024 21:59:17 
+Payment Entry Id - 3604
+ 
+12-06-2024 21:59:17 
+Chq  - 1
+ 
+12-06-2024 21:59:17 
+Payment Entry Id - 3604
+ 
+12-06-2024 21:59:17 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3604',
+									'', 
+									'1970-01-01',
+									'RTGS',
+									'1922',
+									'0',
+									'',
+									'9',
+										NOW()
+									)
+ 
+12-06-2024 21:59:17 
+ Chq  - 1
+ 
+12-06-2024 21:59:17 
+Payment Entry Id - 3604
+ 
+12-06-2024 21:59:17 
+ Bill - 1
+ 
+12-06-2024 21:59:17 
+Payment Entry Id Bill Entry Delete 3604
+ 
+12-06-2024 21:59:17 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3604',
+										'2024-06-06',
+										'6555',
+										'1449',
+										'2024-06-03',
+										'26922',
+										'25000',
+										'0',
+										'0',
+										'Full',
+										'1922',
+										'0',
+										'0',
+										'0',
+										'0',
+										'0',
+										'',
+										'9',
+										NOW()
+									)
+ 
+12-06-2024 21:59:17 
+Bill - 1
+ 
+12-06-2024 21:59:17 
+Payment Entry Id  - Bill - 1449
+ 
+13-06-2024 15:16:16 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30452',
+			'24-6-4',
+			'4',
+			'140',
+			'0',
+			'0',
+			'5439',
+			'Goods Return',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:16:16 
+Payment Entry Main - Success
+ 
+13-06-2024 15:16:16 
+Payment Entry Id - 3606
+ 
+13-06-2024 15:16:16 
+GR - Success
+ 
+13-06-2024 15:16:16 
+Payment Entry Id - 3606
+ 
+13-06-2024 15:16:16 
+GR - Success
+ 
+13-06-2024 15:16:16 
+Payment Entry Id - 3606
+ 
+13-06-2024 15:16:16 
+ Payment Bill - Success
+ 
+13-06-2024 15:16:16 
+Payment Entry Id  - Bill - 125
+ 
+13-06-2024 15:16:16 
+ Payment Bill - Success
+ 
+13-06-2024 15:16:16 
+Payment Entry Id  - Bill - 145
+ 
+13-06-2024 15:18:18 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30461',
+			'2024-6-6',
+			'60',
+			'81',
+			'22675',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:18:18 
+Payment Entry Main - Success
+ 
+13-06-2024 15:18:18 
+Payment Entry Id - 3607
+ 
+13-06-2024 15:18:18 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3607',
+							'', 
+							'2024-6-6',
+							'RTGS',
+							'22675',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:18:18 
+Chq  - Success
+ 
+13-06-2024 15:18:18 
+Payment Entry Id - 3607
+ 
+13-06-2024 15:18:18 
+ Payment Bill - Success
+ 
+13-06-2024 15:18:18 
+Payment Entry Id  - Bill - 380
+ 
+13-06-2024 15:25:23 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30462',
+			'2024-6-6',
+			'4',
+			'42',
+			'0',
+			'0',
+			'27428',
+			'Goods Return',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:25:23 
+Payment Entry Main - Success
+ 
+13-06-2024 15:25:23 
+Payment Entry Id - 3608
+ 
+13-06-2024 15:25:23 
+GR - Success
+ 
+13-06-2024 15:25:23 
+Payment Entry Id - 3608
+ 
+13-06-2024 15:25:23 
+ Payment Bill - Success
+ 
+13-06-2024 15:25:23 
+Payment Entry Id  - Bill - 533
+ 
+13-06-2024 15:25:23 
+ Payment Bill - Success
+ 
+13-06-2024 15:25:23 
+Payment Entry Id  - Bill - 534
+ 
+13-06-2024 15:29:03 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30463',
+			'2024-6-6',
+			'122',
+			'42',
+			'225947',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:29:03 
+Payment Entry Main - Success
+ 
+13-06-2024 15:29:03 
+Payment Entry Id - 3609
+ 
+13-06-2024 15:29:03 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3609',
+							'', 
+							'2024-6-6',
+							'RTGS',
+							'100000',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:29:03 
+Chq  - Success
+ 
+13-06-2024 15:29:03 
+Payment Entry Id - 3609
+ 
+13-06-2024 15:29:03 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3609',
+							'', 
+							'2024-6-6',
+							'RTGS',
+							'100000',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:29:03 
+Chq  - Success
+ 
+13-06-2024 15:29:03 
+Payment Entry Id - 3609
+ 
+13-06-2024 15:29:03 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3609',
+							'', 
+							'2024-6-6',
+							'RTGS',
+							'25947',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:29:03 
+Chq  - Success
+ 
+13-06-2024 15:29:03 
+Payment Entry Id - 3609
+ 
+13-06-2024 15:29:03 
+ Payment Bill - Success
+ 
+13-06-2024 15:29:03 
+Payment Entry Id  - Bill - 2691
+ 
+13-06-2024 15:29:03 
+ Payment Bill - Success
+ 
+13-06-2024 15:29:03 
+Payment Entry Id  - Bill - 2708
+ 
+13-06-2024 15:30:36 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30464',
+			'2024-6-7',
+			'10',
+			'2',
+			'9025',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:30:36 
+Payment Entry Main - Success
+ 
+13-06-2024 15:30:36 
+Payment Entry Id - 3610
+ 
+13-06-2024 15:30:36 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3610',
+							'', 
+							'2024-6-7',
+							'RTGS',
+							'9025',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:30:36 
+Chq  - Success
+ 
+13-06-2024 15:30:36 
+Payment Entry Id - 3610
+ 
+13-06-2024 15:30:36 
+ Payment Bill - Success
+ 
+13-06-2024 15:30:36 
+Payment Entry Id  - Bill - 1566
+ 
+13-06-2024 15:34:13 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30466',
+			'2024-6-11',
+			'93',
+			'87',
+			'270326',
+			'6922',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:34:13 
+Payment Entry Main - Success
+ 
+13-06-2024 15:34:13 
+Payment Entry Id - 3611
+ 
+13-06-2024 15:34:13 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3611',
+							'00008', 
+							'1970-01-01',
+							'HDFC',
+							'270326',
+							'6922',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:34:13 
+Chq  - Success
+ 
+13-06-2024 15:34:13 
+Payment Entry Id - 3611
+ 
+13-06-2024 15:34:13 
+ Payment Bill - Success
+ 
+13-06-2024 15:34:13 
+Payment Entry Id  - Bill - 316
+ 
+13-06-2024 15:34:13 
+ Payment Bill - Success
+ 
+13-06-2024 15:34:13 
+Payment Entry Id  - Bill - 325
+ 
+13-06-2024 15:36:03 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30467',
+			'2024-6-11',
+			'93',
+			'87',
+			'250939',
+			'7381',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:36:03 
+Payment Entry Main - Success
+ 
+13-06-2024 15:36:03 
+Payment Entry Id - 3612
+ 
+13-06-2024 15:36:03 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3612',
+							'000159', 
+							'1970-01-01',
+							'HDFC',
+							'250939',
+							'7381',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:36:03 
+Chq  - Success
+ 
+13-06-2024 15:36:03 
+Payment Entry Id - 3612
+ 
+13-06-2024 15:36:03 
+ Payment Bill - Success
+ 
+13-06-2024 15:36:03 
+Payment Entry Id  - Bill - 317
+ 
+13-06-2024 15:37:45 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30468',
+			'2024-6-11',
+			'93',
+			'90',
+			'193841',
+			'5701',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:37:45 
+Payment Entry Main - Success
+ 
+13-06-2024 15:37:45 
+Payment Entry Id - 3613
+ 
+13-06-2024 15:37:45 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3613',
+							'00077', 
+							'1970-01-01',
+							'HDFC',
+							'193841',
+							'5701',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:37:45 
+Chq  - Success
+ 
+13-06-2024 15:37:45 
+Payment Entry Id - 3613
+ 
+13-06-2024 15:37:45 
+ Payment Bill - Success
+ 
+13-06-2024 15:37:45 
+Payment Entry Id  - Bill - 297
+ 
+13-06-2024 15:37:45 
+ Payment Bill - Success
+ 
+13-06-2024 15:37:45 
+Payment Entry Id  - Bill - 298
+ 
+13-06-2024 15:44:53 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30469',
+			'2024-3-29',
+			'7',
+			'20',
+			'137901',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:44:53 
+Payment Entry Main - Success
+ 
+13-06-2024 15:44:53 
+Payment Entry Id - 3614
+ 
+13-06-2024 15:44:53 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3614',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'137901',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:44:53 
+Chq  - Success
+ 
+13-06-2024 15:44:53 
+Payment Entry Id - 3614
+ 
+13-06-2024 15:44:53 
+ Payment Bill - Success
+ 
+13-06-2024 15:44:53 
+Payment Entry Id  - Bill - 749
+ 
+13-06-2024 15:44:53 
+ Payment Bill - Success
+ 
+13-06-2024 15:44:53 
+Payment Entry Id  - Bill - 750
+ 
+13-06-2024 15:47:08 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30470',
+			'2024-6-11',
+			'60',
+			'20',
+			'344580',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:47:08 
+Payment Entry Main - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id - 3615
+ 
+13-06-2024 15:47:08 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3615',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'344580',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:47:08 
+Chq  - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id - 3615
+ 
+13-06-2024 15:47:08 
+ Payment Bill - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id  - Bill - 295
+ 
+13-06-2024 15:47:08 
+ Payment Bill - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id  - Bill - 402
+ 
+13-06-2024 15:47:08 
+ Payment Bill - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id  - Bill - 438
+ 
+13-06-2024 15:47:08 
+ Payment Bill - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id  - Bill - 453
+ 
+13-06-2024 15:47:08 
+ Payment Bill - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id  - Bill - 504
+ 
+13-06-2024 15:47:08 
+ Payment Bill - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id  - Bill - 518
+ 
+13-06-2024 15:47:08 
+ Payment Bill - Success
+ 
+13-06-2024 15:47:08 
+Payment Entry Id  - Bill - 535
+ 
+13-06-2024 15:48:24 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30471',
+			'2024-6-11',
+			'8',
+			'20',
+			'106176',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:48:24 
+Payment Entry Main - Success
+ 
+13-06-2024 15:48:24 
+Payment Entry Id - 3616
+ 
+13-06-2024 15:48:24 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3616',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'106176',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:48:24 
+Chq  - Success
+ 
+13-06-2024 15:48:24 
+Payment Entry Id - 3616
+ 
+13-06-2024 15:48:24 
+ Payment Bill - Success
+ 
+13-06-2024 15:48:24 
+Payment Entry Id  - Bill - 74
+ 
+13-06-2024 15:49:31 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30472',
+			'2024-6-11',
+			'1',
+			'20',
+			'24172',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:49:31 
+Payment Entry Main - Success
+ 
+13-06-2024 15:49:31 
+Payment Entry Id - 3617
+ 
+13-06-2024 15:49:31 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3617',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'24172',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:49:31 
+Chq  - Success
+ 
+13-06-2024 15:49:31 
+Payment Entry Id - 3617
+ 
+13-06-2024 15:49:31 
+ Payment Bill - Success
+ 
+13-06-2024 15:49:31 
+Payment Entry Id  - Bill - 247
+ 
+13-06-2024 15:53:00 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30474',
+			'2024-6-12',
+			'10',
+			'81',
+			'75920',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:53:00 
+Payment Entry Main - Success
+ 
+13-06-2024 15:53:00 
+Payment Entry Id - 3618
+ 
+13-06-2024 15:53:00 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3618',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'75920',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:53:00 
+Chq  - Success
+ 
+13-06-2024 15:53:00 
+Payment Entry Id - 3618
+ 
+13-06-2024 15:53:00 
+ Payment Bill - Success
+ 
+13-06-2024 15:53:00 
+Payment Entry Id  - Bill - 884
+ 
+13-06-2024 15:54:30 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30475',
+			'2024-6-10',
+			'10',
+			'81',
+			'16052',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:54:30 
+Payment Entry Main - Success
+ 
+13-06-2024 15:54:30 
+Payment Entry Id - 3619
+ 
+13-06-2024 15:54:30 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3619',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'16052',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:54:30 
+Chq  - Success
+ 
+13-06-2024 15:54:30 
+Payment Entry Id - 3619
+ 
+13-06-2024 15:54:30 
+ Payment Bill - Success
+ 
+13-06-2024 15:54:30 
+Payment Entry Id  - Bill - 205
+ 
+13-06-2024 15:58:57 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30473',
+			'2024-6-11',
+			'10',
+			'20',
+			'249939',
+			'0',
+			'0',
+			'Advance Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 15:58:57 
+Payment Entry Main - Success
+ 
+13-06-2024 15:58:57 
+Payment Entry Id - 3620
+ 
+13-06-2024 15:58:57 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3620',
+							'', 
+							'2024-6-11',
+							'RTGS',
+							'249939',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 15:58:57 
+Chq  - Success
+ 
+13-06-2024 15:58:57 
+Payment Entry Id - 3620
+ 
+13-06-2024 16:02:12 
+Payment Entry Main - 1
+ 
+13-06-2024 16:02:12 
+Payment Entry Id - 3362
+ 
+13-06-2024 16:02:12 
+Chq  - 1
+ 
+13-06-2024 16:02:12 
+Payment Entry Id - 3362
+ 
+13-06-2024 16:02:12 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3362',
+									'', 
+									'1970-01-01',
+									'RTGS',
+									'324827',
+									'0',
+									'',
+									'10',
+										NOW()
+									)
+ 
+13-06-2024 16:02:12 
+ Chq  - 1
+ 
+13-06-2024 16:02:12 
+Payment Entry Id - 3362
+ 
+13-06-2024 16:02:12 
+ Bill - 1
+ 
+13-06-2024 16:02:12 
+Payment Entry Id Bill Entry Delete 3362
+ 
+13-06-2024 16:02:12 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3362',
+										'2024-03-31',
+										'6044',
+										'2056',
+										'2023-12-19',
+										'324827',
+										'0',
+										'0',
+										'0',
+										'Full',
+										'324827',
+										'0',
+										'0',
+										'0',
+										'0',
+										'0',
+										'',
+										'10',
+										NOW()
+									)
+ 
+13-06-2024 16:02:12 
+Bill - 1
+ 
+13-06-2024 16:02:12 
+Payment Entry Id  - Bill - 2056
+ 
+13-06-2024 16:04:09 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30465',
+			'2024-6-6',
+			'122',
+			'42',
+			'16884',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+13-06-2024 16:04:09 
+Payment Entry Main - Success
+ 
+13-06-2024 16:04:09 
+Payment Entry Id - 3621
+ 
+13-06-2024 16:04:09 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3621',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'16884',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+13-06-2024 16:04:09 
+Chq  - Success
+ 
+13-06-2024 16:04:09 
+Payment Entry Id - 3621
+ 
+13-06-2024 16:04:09 
+ Payment Bill - Success
+ 
+13-06-2024 16:04:09 
+Payment Entry Id  - Bill - DN-2
+ 
+14-06-2024 15:26:06 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30476',
+			'2024-6-13',
+			'93',
+			'154',
+			'178510',
+			'5256',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+14-06-2024 15:26:06 
+Payment Entry Main - Success
+ 
+14-06-2024 15:26:06 
+Payment Entry Id - 3622
+ 
+14-06-2024 15:26:06 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3622',
+							'001483', 
+							'1970-01-01',
+							'ICICI',
+							'178510',
+							'5256',
+							'',
+							'10',
+								NOW()
+							)
+ 
+14-06-2024 15:26:06 
+Chq  - Success
+ 
+14-06-2024 15:26:06 
+Payment Entry Id - 3622
+ 
+14-06-2024 15:26:06 
+ Payment Bill - Success
+ 
+14-06-2024 15:26:06 
+Payment Entry Id  - Bill - 105
+ 
+14-06-2024 15:27:15 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30477',
+			'2024-6-13',
+			'128',
+			'18',
+			'85430',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+14-06-2024 15:27:15 
+Payment Entry Main - Success
+ 
+14-06-2024 15:27:15 
+Payment Entry Id - 3623
+ 
+14-06-2024 15:27:15 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3623',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'85430',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+14-06-2024 15:27:15 
+Chq  - Success
+ 
+14-06-2024 15:27:15 
+Payment Entry Id - 3623
+ 
+14-06-2024 15:27:15 
+ Payment Bill - Success
+ 
+14-06-2024 15:27:15 
+Payment Entry Id  - Bill - 1094
+ 
+14-06-2024 15:28:25 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30478',
+			'2024-6-13',
+			'119',
+			'18',
+			'95873',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+14-06-2024 15:28:25 
+Payment Entry Main - Success
+ 
+14-06-2024 15:28:25 
+Payment Entry Id - 3624
+ 
+14-06-2024 15:28:25 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3624',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'95873',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+14-06-2024 15:28:25 
+Chq  - Success
+ 
+14-06-2024 15:28:25 
+Payment Entry Id - 3624
+ 
+14-06-2024 15:28:25 
+ Payment Bill - Success
+ 
+14-06-2024 15:28:25 
+Payment Entry Id  - Bill - 358
+ 
+14-06-2024 15:28:25 
+ Payment Bill - Success
+ 
+14-06-2024 15:28:25 
+Payment Entry Id  - Bill - 371
+ 
+14-06-2024 15:28:25 
+ Payment Bill - Success
+ 
+14-06-2024 15:28:25 
+Payment Entry Id  - Bill - 373
+ 
+14-06-2024 15:30:23 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30479',
+			'2024-6-13',
+			'9',
+			'78',
+			'20413',
+			'0',
+			'0',
+			'Advance Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+14-06-2024 15:30:23 
+Payment Entry Main - Success
+ 
+14-06-2024 15:30:23 
+Payment Entry Id - 3625
+ 
+14-06-2024 15:30:23 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3625',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'20413',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+14-06-2024 15:30:23 
+Chq  - Success
+ 
+14-06-2024 15:30:23 
+Payment Entry Id - 3625
+ 
+14-06-2024 15:31:38 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30480',
+			'2024-6-12',
+			'7',
+			'20',
+			'147172',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+14-06-2024 15:31:38 
+Payment Entry Main - Success
+ 
+14-06-2024 15:31:38 
+Payment Entry Id - 3626
+ 
+14-06-2024 15:31:38 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3626',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'147172',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+14-06-2024 15:31:38 
+Chq  - Success
+ 
+14-06-2024 15:31:38 
+Payment Entry Id - 3626
+ 
+14-06-2024 15:31:38 
+ Payment Bill - Success
+ 
+14-06-2024 15:31:38 
+Payment Entry Id  - Bill - 70
+ 
+14-06-2024 15:31:38 
+ Payment Bill - Success
+ 
+14-06-2024 15:31:38 
+Payment Entry Id  - Bill - 77
+ 
+14-06-2024 15:33:28 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30481',
+			'2024-06-14',
+			'73',
+			'20',
+			'90300',
+			'5886',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+14-06-2024 15:33:28 
+Payment Entry Main - Success
+ 
+14-06-2024 15:33:28 
+Payment Entry Id - 3627
+ 
+14-06-2024 15:33:28 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3627',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'90300',
+							'5886',
+							'',
+							'10',
+								NOW()
+							)
+ 
+14-06-2024 15:33:28 
+Chq  - Success
+ 
+14-06-2024 15:33:28 
+Payment Entry Id - 3627
+ 
+14-06-2024 15:33:28 
+ Payment Bill - Success
+ 
+14-06-2024 15:33:28 
+Payment Entry Id  - Bill - 2962
+ 
+14-06-2024 15:35:58 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30482',
+			'2024-06-14',
+			'167',
+			'190',
+			'108694',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'10',
+			NOW(),			
+			'10',
+			NOW()
+			)
+ 
+14-06-2024 15:35:58 
+Payment Entry Main - Success
+ 
+14-06-2024 15:35:58 
+Payment Entry Id - 3628
+ 
+14-06-2024 15:35:58 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3628',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'50000',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+14-06-2024 15:35:58 
+Chq  - Success
+ 
+14-06-2024 15:35:58 
+Payment Entry Id - 3628
+ 
+14-06-2024 15:35:58 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3628',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'58694',
+							'0',
+							'',
+							'10',
+								NOW()
+							)
+ 
+14-06-2024 15:35:58 
+Chq  - Success
+ 
+14-06-2024 15:35:58 
+Payment Entry Id - 3628
+ 
+14-06-2024 15:35:58 
+ Payment Bill - Success
+ 
+14-06-2024 15:35:58 
+Payment Entry Id  - Bill - 107
+ 
+14-06-2024 15:35:58 
+ Payment Bill - Success
+ 
+14-06-2024 15:35:58 
+Payment Entry Id  - Bill - 117
+ 
+15-06-2024 21:14:05 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('NKD',
+			'2024-06-15',
+			'137',
+			'20',
+			'25300',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+15-06-2024 21:14:05 
+Payment Entry Main - Success
+ 
+15-06-2024 21:14:05 
+Payment Entry Id - 3629
+ 
+15-06-2024 21:14:05 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3629',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'25300',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+15-06-2024 21:14:05 
+Chq  - Success
+ 
+15-06-2024 21:14:05 
+Payment Entry Id - 3629
+ 
+15-06-2024 21:14:05 
+ Payment Bill - Success
+ 
+15-06-2024 21:14:05 
+Payment Entry Id  - Bill - 2280
+ 
+15-06-2024 21:15:50 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('NKD',
+			'2024-06-14',
+			'35',
+			'20',
+			'266963',
+			'7794',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+15-06-2024 21:15:50 
+Payment Entry Main - Success
+ 
+15-06-2024 21:15:50 
+Payment Entry Id - 3630
+ 
+15-06-2024 21:15:50 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3630',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'266963',
+							'7794',
+							'',
+							'9',
+								NOW()
+							)
+ 
+15-06-2024 21:15:50 
+Chq  - Success
+ 
+15-06-2024 21:15:50 
+Payment Entry Id - 3630
+ 
+15-06-2024 21:15:50 
+ Payment Bill - Success
+ 
+15-06-2024 21:15:50 
+Payment Entry Id  - Bill - 198
+ 
+15-06-2024 21:15:50 
+ Payment Bill - Success
+ 
+15-06-2024 21:15:50 
+Payment Entry Id  - Bill - 250
+ 
+15-06-2024 21:15:50 
+ Payment Bill - Success
+ 
+15-06-2024 21:15:50 
+Payment Entry Id  - Bill - 256
+ 
+19-06-2024 12:59:33 
+Payment Entry Main - 1
+ 
+19-06-2024 12:59:33 
+Payment Entry Id - 3630
+ 
+19-06-2024 12:59:33 
+Chq  - 1
+ 
+19-06-2024 12:59:33 
+Payment Entry Id - 3630
+ 
+19-06-2024 12:59:33 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3630',
+									'', 
+									'1970-01-01',
+									'RTGS',
+									'266963',
+									'7794',
+									'',
+									'9',
+										NOW()
+									)
+ 
+19-06-2024 12:59:33 
+ Chq  - 1
+ 
+19-06-2024 12:59:33 
+Payment Entry Id - 3630
+ 
+19-06-2024 12:59:33 
+ Bill - 1
+ 
+19-06-2024 12:59:33 
+Payment Entry Id Bill Entry Delete 3630
+ 
+19-06-2024 12:59:33 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3630',
+										'2024-06-14',
+										'6481',
+										'198',
+										'2024-05-14',
+										'13406',
+										'0',
+										'0',
+										'0',
+										'Full',
+										'13406',
+										'0',
+										'0',
+										'0',
+										'0',
+										'0',
+										'',
+										'9',
+										NOW()
+									)
+ 
+19-06-2024 12:59:33 
+Bill - 1
+ 
+19-06-2024 12:59:33 
+Payment Entry Id  - Bill - 198
+ 
+19-06-2024 12:59:33 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3630',
+										'2024-06-14',
+										'6539',
+										'250',
+										'2024-05-30',
+										'146847',
+										'0',
+										'0',
+										'0',
+										'Full',
+										'146847',
+										'0',
+										'0',
+										'0',
+										'0',
+										'0',
+										'',
+										'9',
+										NOW()
+									)
+ 
+19-06-2024 12:59:33 
+Bill - 1
+ 
+19-06-2024 12:59:33 
+Payment Entry Id  - Bill - 250
+ 
+19-06-2024 12:59:33 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3630',
+										'2024-06-14',
+										'6540',
+										'256',
+										'2024-05-31',
+										'114504',
+										'0',
+										'0',
+										'0',
+										'Full',
+										'106710',
+										'0',
+										'0',
+										'7794',
+										'0',
+										'0',
+										'',
+										'9',
+										NOW()
+									)
+ 
+19-06-2024 12:59:33 
+Bill - 1
+ 
+19-06-2024 12:59:33 
+Payment Entry Id  - Bill - 256
+ 
+19-06-2024 12:59:56 
+Payment Entry Main - 1
+ 
+19-06-2024 12:59:56 
+Payment Entry Id - 3629
+ 
+19-06-2024 12:59:56 
+Chq  - 1
+ 
+19-06-2024 12:59:56 
+Payment Entry Id - 3629
+ 
+19-06-2024 12:59:56 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3629',
+									'', 
+									'1970-01-01',
+									'RTGS',
+									'25300',
+									'0',
+									'',
+									'9',
+										NOW()
+									)
+ 
+19-06-2024 12:59:56 
+ Chq  - 1
+ 
+19-06-2024 12:59:56 
+Payment Entry Id - 3629
+ 
+19-06-2024 12:59:56 
+ Bill - 1
+ 
+19-06-2024 12:59:56 
+Payment Entry Id Bill Entry Delete 3629
+ 
+19-06-2024 12:59:56 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3629',
+										'2024-06-15',
+										'6565',
+										'2280',
+										'2024-06-06',
+										'25300',
+										'0',
+										'0',
+										'0',
+										'Full',
+										'25300',
+										'0',
+										'0',
+										'0',
+										'0',
+										'0',
+										'',
+										'9',
+										NOW()
+									)
+ 
+19-06-2024 12:59:56 
+Bill - 1
+ 
+19-06-2024 12:59:56 
+Payment Entry Id  - Bill - 2280
+ 
+19-06-2024 13:01:15 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30485',
+			'2024-06-14',
+			'109',
+			'38',
+			'6038',
+			'0',
+			'0',
+			'Advance Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+19-06-2024 13:01:15 
+Payment Entry Main - Success
+ 
+19-06-2024 13:01:15 
+Payment Entry Id - 3631
+ 
+19-06-2024 13:01:15 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3631',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'6038',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+19-06-2024 13:01:15 
+Chq  - Success
+ 
+19-06-2024 13:01:15 
+Payment Entry Id - 3631
+ 
+19-06-2024 13:02:21 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30486',
+			'2024-06-18',
+			'122',
+			'174',
+			'100000',
+			'0',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+19-06-2024 13:02:21 
+Payment Entry Main - Success
+ 
+19-06-2024 13:02:21 
+Payment Entry Id - 3632
+ 
+19-06-2024 13:02:21 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3632',
+							'', 
+							'1970-01-01',
+							'RTGS',
+							'100000',
+							'0',
+							'',
+							'9',
+								NOW()
+							)
+ 
+19-06-2024 13:02:21 
+Chq  - Success
+ 
+19-06-2024 13:02:21 
+Payment Entry Id - 3632
+ 
+19-06-2024 13:02:21 
+ Payment Bill - Success
+ 
+19-06-2024 13:02:21 
+Payment Entry Id  - Bill - 2634
+ 
+19-06-2024 13:06:51 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30487',
+			'2024-06-18',
+			'93',
+			'90',
+			'20940',
+			'616',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+19-06-2024 13:06:51 
+Payment Entry Main - Success
+ 
+19-06-2024 13:06:51 
+Payment Entry Id - 3633
+ 
+19-06-2024 13:06:51 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3633',
+							'00084', 
+							'1970-01-01',
+							'HDFC',
+							'20940',
+							'616',
+							'',
+							'9',
+								NOW()
+							)
+ 
+19-06-2024 13:06:51 
+Chq  - Success
+ 
+19-06-2024 13:06:51 
+Payment Entry Id - 3633
+ 
+19-06-2024 13:06:51 
+ Payment Bill - Success
+ 
+19-06-2024 13:06:51 
+Payment Entry Id  - Bill - 383
+ 
+19-06-2024 13:08:08 
+insert into 
+			txt_payment_entry_main
+			(manual_vou_number,
+			voucher_date, 
+			supplier_account_code,
+			buyer_account_code,
+			payment_amount,
+			discount_amount,
+			gr_amount,
+			vou_type,
+			narration,
+			supporting_doc_1,
+			supporting_doc_2,
+			last_update_user,
+			last_update_date,
+			create_user,
+			create_date
+			)
+			values
+			('30488',
+			'2024-06-19',
+			'165',
+			'87',
+			'38284',
+			'1120',
+			'0',
+			'Payment',
+			'',
+			'',
+			'',
+			'9',
+			NOW(),			
+			'9',
+			NOW()
+			)
+ 
+19-06-2024 13:08:08 
+Payment Entry Main - Success
+ 
+19-06-2024 13:08:08 
+Payment Entry Id - 3634
+ 
+19-06-2024 13:08:08 
+insert into
+							txt_payment_cheque_entry
+							(
+							payment_entry_id,
+							chq_number,
+							chq_date,
+							bank,
+							chq_amt,
+							dis_amt,
+							remark,
+							create_user,
+							create_date
+							)
+							values
+							(
+							'3634',
+							'000161', 
+							'1970-01-01',
+							'HDFC',
+							'38284',
+							'1120',
+							'',
+							'9',
+								NOW()
+							)
+ 
+19-06-2024 13:08:08 
+Chq  - Success
+ 
+19-06-2024 13:08:08 
+Payment Entry Id - 3634
+ 
+19-06-2024 13:08:08 
+ Payment Bill - Success
+ 
+19-06-2024 13:08:08 
+Payment Entry Id  - Bill - 168
+ 
+19-06-2024 13:10:32 
+Payment Entry Main - 1
+ 
+19-06-2024 13:10:32 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:10:32 
+Chq  - 1
+ 
+19-06-2024 13:10:32 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:10:32 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3587',
+									'', 
+									'2024-05-29',
+									'rtgs',
+									'60000',
+									'0',
+									'',
+									'9',
+										NOW()
+									)
+ 
+19-06-2024 13:10:32 
+ Chq  - 1
+ 
+19-06-2024 13:10:32 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:10:32 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3587',
+									'', 
+									'2024-06-19',
+									'',
+									'3991',
+									'0',
+									'',
+									'9',
+										NOW()
+									)
+ 
+19-06-2024 13:10:32 
+ Chq  - 1
+ 
+19-06-2024 13:10:32 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:10:32 
+ Bill Entry Del 1
+ 
+19-06-2024 13:10:32 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:13:44 
+Payment Entry Main - 1
+ 
+19-06-2024 13:13:44 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:13:44 
+Chq  - 1
+ 
+19-06-2024 13:13:44 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:13:44 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3587',
+									'', 
+									'2024-05-29',
+									'rtgs',
+									'60000',
+									'0',
+									'',
+									'9',
+										NOW()
+									)
+ 
+19-06-2024 13:13:44 
+ Chq  - 1
+ 
+19-06-2024 13:13:44 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:13:44 
+insert into
+									txt_payment_cheque_entry
+									(
+									payment_entry_id,
+									chq_number,
+									chq_date,
+									bank,
+									chq_amt,
+									dis_amt,
+									remark,
+									create_user,
+									create_date
+									)
+									values
+									(
+									'3587',
+									'', 
+									'2024-06-19',
+									'',
+									'3991',
+									'0',
+									'',
+									'9',
+										NOW()
+									)
+ 
+19-06-2024 13:13:44 
+ Chq  - 1
+ 
+19-06-2024 13:13:44 
+Payment Entry Id - 3587
+ 
+19-06-2024 13:13:44 
+ Bill - 1
+ 
+19-06-2024 13:13:44 
+Payment Entry Id Bill Entry Delete 3587
+ 
+19-06-2024 13:13:44 
+ - SQL -insert into 
+									txt_payment_bill_entry 
+									(
+										payment_entry_id,
+										payment_entry_vou_date,
+										bill_entry_id,
+										bill_number,
+										bill_date,
+										bill_amount,
+										amount_adjusted,
+										gr_adjusted,
+										discount_adjusted,
+										bill_payment_type,
+										payment_received,
+										dis_percent,
+										dis_amount,
+										deduction_amount,
+										bill_gr_amt,
+										balance_amount,
+										remark,
+										create_user,
+										create_date
+									)
+									values
+									(
+										'3587',
+										'2024-05-29',
+										'6589',
+										'211',
+										'2024-06-13',
+										'63991',
+										'0',
+										'0',
+										'0',
+										'Full',
+										'63991',
+										'0',
+										'0',
+										'0',
+										'0',
+										'0',
+										'',
+										'9',
+										NOW()
+									)
+ 
+19-06-2024 13:13:44 
+Bill - 1
+ 
+19-06-2024 13:13:44 
+Payment Entry Id  - Bill - 211
