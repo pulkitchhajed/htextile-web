@@ -16,10 +16,10 @@ function get_menu_tree($parent_id,$web_path)
   }
   $menu = "";
   
-    $sqlquery = " SELECT * FROM menu where status='1' and parent_id='$parent_id' and user_role='$role_id' ";
+    $sqlquery = " SELECT * FROM menu where status='1' and parent_id=? and user_role=? ";
   // echo $sqlquery;
-	$res=mysqli_query($con,$sqlquery);
-    while($row=mysqli_fetch_array($res,MYSQLI_ASSOC)) 
+	$res=db_query($sqlquery, [$parent_id, $role_id]);
+    while($row=db_fetch($res)) 
 	{
            $menu .="<li><a href='".$web_path.$row['link']."?menu_id=".$row['menu_id']."'>".$row['menu_name']."</a>";
 		   
