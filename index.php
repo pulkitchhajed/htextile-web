@@ -9,7 +9,7 @@ $con=get_connection();
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Hera Textiles :  Login</title>
 <link rel="icon" type="image/x-icon" href="<?php echo $web_path; ?>images/dt-favicon.ico" />
-<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="<?php echo $web_path; ?>css/style.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
 	function check() {
 		var login_name=document.getElementById('login_name').value;
@@ -94,7 +94,7 @@ $con=get_connection();
                             
         
                             
-      <form method="post" action="login/chk_login.php" onsubmit="return check()">
+      <form method="post" action="<?php echo $web_path; ?>login/chk_login.php" onsubmit="return check()">
                   <table width="670" class="tbl_border">
                   	<tr>
                   	  <th width="188"><div align="left"><strong>Login ID</strong></div></th>
@@ -104,7 +104,7 @@ $con=get_connection();
                   	  <td><input name="login_password" type="password" id="login_password" size="40" tabindex="2" /></td>
                       </tr>
                        <tr>
-       <td align="right"><div align="left">Type 3 <strong>black</strong> Characters.* <br><img src="login/captcha.php" alt="captcha image"> <br />
+       <td align="right"><div align="left">Type 3 <strong>black</strong> Characters.* <br><img src="<?php echo $web_path; ?>login/captcha.php" alt="captcha image"> <br />
        </div>
        <a href="javascript:location.reload();">Refresh Image</a>
        </td>

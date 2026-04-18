@@ -1,18 +1,15 @@
 <?php  
 
-$host=$_SERVER["HTTP_HOST"];
+$host = $_SERVER["HTTP_HOST"] ?? 'localhost';
 
-if(false) {
-		$web_path="http://malwainfotech.com/Textile/";      
-	}
- else {
-	$web_path="http://$host/HTextile/";   	
-	//$web_path="http://$host/AgencySystemDemo/";   	
+if (strpos($host, 'localhost') !== false || strpos($host, '127.0.0.1') !== false) {
+    // Local dev: might be in a subfolder
+    $web_path = "http://$host/HTextile/";   
+} else {
+    // Production/Vercel: root directory
+    $scheme = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? 'https' : 'http';
+    $web_path = "$scheme://$host/";
 }
-
-
-
-
 $user_type_ar=array('admin' => 'Admin',
 					'user' => 'User',
 					'master' =>'Master'
